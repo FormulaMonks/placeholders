@@ -1,0 +1,4046 @@
+[
+    {
+        "Name": "snow",
+        "Color": "snow",
+        "RGB": "rgb(255, 250, 250)",
+        "Hex": "#FFFAFA"
+    },
+    {
+        "Name": "snow1",
+        "Color": "snow1",
+        "RGB": "rgb(255, 250, 250)",
+        "Hex": "#FFFAFA"
+    },
+    {
+        "Name": "snow2",
+        "Color": "snow2",
+        "RGB": "rgb(238, 233, 233)",
+        "Hex": "#EEE9E9"
+    },
+    {
+        "Name": "RosyBrown1",
+        "Color": "RosyBrown1",
+        "RGB": "rgb(255, 193, 193)",
+        "Hex": "#FFC1C1"
+    },
+    {
+        "Name": "RosyBrown2",
+        "Color": "RosyBrown2",
+        "RGB": "rgb(238, 180, 180)",
+        "Hex": "#EEB4B4"
+    },
+    {
+        "Name": "snow3",
+        "Color": "snow3",
+        "RGB": "rgb(205, 201, 201)",
+        "Hex": "#CDC9C9"
+    },
+    {
+        "Name": "LightCoral",
+        "Color": "LightCoral",
+        "RGB": "rgb(240, 128, 128)",
+        "Hex": "#F08080"
+    },
+    {
+        "Name": "IndianRed1",
+        "Color": "IndianRed1",
+        "RGB": "rgb(255, 106, 106)",
+        "Hex": "#FF6A6A"
+    },
+    {
+        "Name": "RosyBrown3",
+        "Color": "RosyBrown3",
+        "RGB": "rgb(205, 155, 155)",
+        "Hex": "#CD9B9B"
+    },
+    {
+        "Name": "IndianRed2",
+        "Color": "IndianRed2",
+        "RGB": "rgb(238, 99, 99)",
+        "Hex": "#EE6363"
+    },
+    {
+        "Name": "RosyBrown",
+        "Color": "RosyBrown",
+        "RGB": "rgb(188, 143, 143)",
+        "Hex": "#BC8F8F"
+    },
+    {
+        "Name": "brown1",
+        "Color": "brown1",
+        "RGB": "rgb(255, 64, 64)",
+        "Hex": "#FF4040"
+    },
+    {
+        "Name": "firebrick1",
+        "Color": "firebrick1",
+        "RGB": "rgb(255, 48, 48)",
+        "Hex": "#FF3030"
+    },
+    {
+        "Name": "brown2",
+        "Color": "brown2",
+        "RGB": "rgb(238, 59, 59)",
+        "Hex": "#EE3B3B"
+    },
+    {
+        "Name": "IndianRed",
+        "Color": "IndianRed",
+        "RGB": "rgb(205, 92, 92)",
+        "Hex": "#CD5C5C"
+    },
+    {
+        "Name": "IndianRed3",
+        "Color": "IndianRed3",
+        "RGB": "rgb(205, 85, 85)",
+        "Hex": "#CD5555"
+    },
+    {
+        "Name": "firebrick2",
+        "Color": "firebrick2",
+        "RGB": "rgb(238, 44, 44)",
+        "Hex": "#EE2C2C"
+    },
+    {
+        "Name": "snow4",
+        "Color": "snow4",
+        "RGB": "rgb(139, 137, 137)",
+        "Hex": "#8B8989"
+    },
+    {
+        "Name": "brown3",
+        "Color": "brown3",
+        "RGB": "rgb(205, 51, 51)",
+        "Hex": "#CD3333"
+    },
+    {
+        "Name": "red",
+        "Color": "red",
+        "RGB": "rgb(255, 0, 0)",
+        "Hex": "#FF0000"
+    },
+    {
+        "Name": "red1",
+        "Color": "red1",
+        "RGB": "rgb(255, 0, 0)",
+        "Hex": "#FF0000"
+    },
+    {
+        "Name": "RosyBrown4",
+        "Color": "RosyBrown4",
+        "RGB": "rgb(139, 105, 105)",
+        "Hex": "#8B6969"
+    },
+    {
+        "Name": "firebrick3",
+        "Color": "firebrick3",
+        "RGB": "rgb(205, 38, 38)",
+        "Hex": "#CD2626"
+    },
+    {
+        "Name": "red2",
+        "Color": "red2",
+        "RGB": "rgb(238, 0, 0)",
+        "Hex": "#EE0000"
+    },
+    {
+        "Name": "firebrick",
+        "Color": "firebrick",
+        "RGB": "rgb(178, 34, 34)",
+        "Hex": "#B22222"
+    },
+    {
+        "Name": "brown",
+        "Color": "brown",
+        "RGB": "rgb(165, 42, 42)",
+        "Hex": "#A52A2A"
+    },
+    {
+        "Name": "red3",
+        "Color": "red3",
+        "RGB": "rgb(205, 0, 0)",
+        "Hex": "#CD0000"
+    },
+    {
+        "Name": "IndianRed4",
+        "Color": "IndianRed4",
+        "RGB": "rgb(139, 58, 58)",
+        "Hex": "#8B3A3A"
+    },
+    {
+        "Name": "brown4",
+        "Color": "brown4",
+        "RGB": "rgb(139, 35, 35)",
+        "Hex": "#8B2323"
+    },
+    {
+        "Name": "firebrick4",
+        "Color": "firebrick4",
+        "RGB": "rgb(139, 26, 26)",
+        "Hex": "#8B1A1A"
+    },
+    {
+        "Name": "DarkRed",
+        "Color": "DarkRed",
+        "RGB": "rgb(139, 0, 0)",
+        "Hex": "#8B0000"
+    },
+    {
+        "Name": "red4",
+        "Color": "red4",
+        "RGB": "rgb(139, 0, 0)",
+        "Hex": "#8B0000"
+    },
+    {
+        "Name": "maroon",
+        "Color": "maroon (SVG compliance)",
+        "RGB": "rgb(128, 0, 0)",
+        "Hex": "#800000"
+    },
+    {
+        "Name": "LightPink1",
+        "Color": "LightPink1",
+        "RGB": "rgb(255, 174, 185)",
+        "Hex": "#FFAEB9"
+    },
+    {
+        "Name": "LightPink3",
+        "Color": "LightPink3",
+        "RGB": "rgb(205, 140, 149)",
+        "Hex": "#CD8C95"
+    },
+    {
+        "Name": "LightPink4",
+        "Color": "LightPink4",
+        "RGB": "rgb(139, 95, 101)",
+        "Hex": "#8B5F65"
+    },
+    {
+        "Name": "LightPink2",
+        "Color": "LightPink2",
+        "RGB": "rgb(238, 162, 173)",
+        "Hex": "#EEA2AD"
+    },
+    {
+        "Name": "LightPink",
+        "Color": "LightPink",
+        "RGB": "rgb(255, 182, 193)",
+        "Hex": "#FFB6C1"
+    },
+    {
+        "Name": "pink",
+        "Color": "pink",
+        "RGB": "rgb(255, 192, 203)",
+        "Hex": "#FFC0CB"
+    },
+    {
+        "Name": "crimson",
+        "Color": "crimson",
+        "RGB": "rgb(220, 20, 60)",
+        "Hex": "#DC143C"
+    },
+    {
+        "Name": "pink1",
+        "Color": "pink1",
+        "RGB": "rgb(255, 181, 197)",
+        "Hex": "#FFB5C5"
+    },
+    {
+        "Name": "pink2",
+        "Color": "pink2",
+        "RGB": "rgb(238, 169, 184)",
+        "Hex": "#EEA9B8"
+    },
+    {
+        "Name": "pink3",
+        "Color": "pink3",
+        "RGB": "rgb(205, 145, 158)",
+        "Hex": "#CD919E"
+    },
+    {
+        "Name": "pink4",
+        "Color": "pink4",
+        "RGB": "rgb(139, 99, 108)",
+        "Hex": "#8B636C"
+    },
+    {
+        "Name": "PaleVioletRed4",
+        "Color": "PaleVioletRed4",
+        "RGB": "rgb(139, 71, 93)",
+        "Hex": "#8B475D"
+    },
+    {
+        "Name": "PaleVioletRed",
+        "Color": "PaleVioletRed",
+        "RGB": "rgb(219, 112, 147)",
+        "Hex": "#DB7093"
+    },
+    {
+        "Name": "PaleVioletRed2",
+        "Color": "PaleVioletRed2",
+        "RGB": "rgb(238, 121, 159)",
+        "Hex": "#EE799F"
+    },
+    {
+        "Name": "PaleVioletRed1",
+        "Color": "PaleVioletRed1",
+        "RGB": "rgb(255, 130, 171)",
+        "Hex": "#FF82AB"
+    },
+    {
+        "Name": "PaleVioletRed3",
+        "Color": "PaleVioletRed3",
+        "RGB": "rgb(205, 104, 137)",
+        "Hex": "#CD6889"
+    },
+    {
+        "Name": "LavenderBlush",
+        "Color": "LavenderBlush",
+        "RGB": "rgb(255, 240, 245)",
+        "Hex": "#FFF0F5"
+    },
+    {
+        "Name": "LavenderBlush1",
+        "Color": "LavenderBlush1",
+        "RGB": "rgb(255, 240, 245)",
+        "Hex": "#FFF0F5"
+    },
+    {
+        "Name": "LavenderBlush3",
+        "Color": "LavenderBlush3",
+        "RGB": "rgb(205, 193, 197)",
+        "Hex": "#CDC1C5"
+    },
+    {
+        "Name": "LavenderBlush2",
+        "Color": "LavenderBlush2",
+        "RGB": "rgb(238, 224, 229)",
+        "Hex": "#EEE0E5"
+    },
+    {
+        "Name": "LavenderBlush4",
+        "Color": "LavenderBlush4",
+        "RGB": "rgb(139, 131, 134)",
+        "Hex": "#8B8386"
+    },
+    {
+        "Name": "maroon",
+        "Color": "maroon (X11 compliance)",
+        "RGB": "rgb(176, 48, 96)",
+        "Hex": "#B03060"
+    },
+    {
+        "Name": "HotPink3",
+        "Color": "HotPink3",
+        "RGB": "rgb(205, 96, 144)",
+        "Hex": "#CD6090"
+    },
+    {
+        "Name": "VioletRed3",
+        "Color": "VioletRed3",
+        "RGB": "rgb(205, 50, 120)",
+        "Hex": "#CD3278"
+    },
+    {
+        "Name": "VioletRed1",
+        "Color": "VioletRed1",
+        "RGB": "rgb(255, 62, 150)",
+        "Hex": "#FF3E96"
+    },
+    {
+        "Name": "VioletRed2",
+        "Color": "VioletRed2",
+        "RGB": "rgb(238, 58, 140)",
+        "Hex": "#EE3A8C"
+    },
+    {
+        "Name": "VioletRed4",
+        "Color": "VioletRed4",
+        "RGB": "rgb(139, 34, 82)",
+        "Hex": "#8B2252"
+    },
+    {
+        "Name": "HotPink2",
+        "Color": "HotPink2",
+        "RGB": "rgb(238, 106, 167)",
+        "Hex": "#EE6AA7"
+    },
+    {
+        "Name": "HotPink1",
+        "Color": "HotPink1",
+        "RGB": "rgb(255, 110, 180)",
+        "Hex": "#FF6EB4"
+    },
+    {
+        "Name": "HotPink4",
+        "Color": "HotPink4",
+        "RGB": "rgb(139, 58, 98)",
+        "Hex": "#8B3A62"
+    },
+    {
+        "Name": "HotPink",
+        "Color": "HotPink",
+        "RGB": "rgb(255, 105, 180)",
+        "Hex": "#FF69B4"
+    },
+    {
+        "Name": "DeepPink",
+        "Color": "DeepPink",
+        "RGB": "rgb(255, 20, 147)",
+        "Hex": "#FF1493"
+    },
+    {
+        "Name": "DeepPink1",
+        "Color": "DeepPink1",
+        "RGB": "rgb(255, 20, 147)",
+        "Hex": "#FF1493"
+    },
+    {
+        "Name": "DeepPink2",
+        "Color": "DeepPink2",
+        "RGB": "rgb(238, 18, 137)",
+        "Hex": "#EE1289"
+    },
+    {
+        "Name": "DeepPink3",
+        "Color": "DeepPink3",
+        "RGB": "rgb(205, 16, 118)",
+        "Hex": "#CD1076"
+    },
+    {
+        "Name": "DeepPink4",
+        "Color": "DeepPink4",
+        "RGB": "rgb(139, 10, 80)",
+        "Hex": "#8B0A50"
+    },
+    {
+        "Name": "maroon1",
+        "Color": "maroon1",
+        "RGB": "rgb(255, 52, 179)",
+        "Hex": "#FF34B3"
+    },
+    {
+        "Name": "maroon2",
+        "Color": "maroon2",
+        "RGB": "rgb(238, 48, 167)",
+        "Hex": "#EE30A7"
+    },
+    {
+        "Name": "maroon3",
+        "Color": "maroon3",
+        "RGB": "rgb(205, 41, 144)",
+        "Hex": "#CD2990"
+    },
+    {
+        "Name": "maroon4",
+        "Color": "maroon4",
+        "RGB": "rgb(139, 28, 98)",
+        "Hex": "#8B1C62"
+    },
+    {
+        "Name": "MediumVioletRed",
+        "Color": "MediumVioletRed",
+        "RGB": "rgb(199, 21, 133)",
+        "Hex": "#C71585"
+    },
+    {
+        "Name": "VioletRed",
+        "Color": "VioletRed",
+        "RGB": "rgb(208, 32, 144)",
+        "Hex": "#D02090"
+    },
+    {
+        "Name": "orchid2",
+        "Color": "orchid2",
+        "RGB": "rgb(238, 122, 233)",
+        "Hex": "#EE7AE9"
+    },
+    {
+        "Name": "orchid",
+        "Color": "orchid",
+        "RGB": "rgb(218, 112, 214)",
+        "Hex": "#DA70D6"
+    },
+    {
+        "Name": "orchid1",
+        "Color": "orchid1",
+        "RGB": "rgb(255, 131, 250)",
+        "Hex": "#FF83FA"
+    },
+    {
+        "Name": "orchid3",
+        "Color": "orchid3",
+        "RGB": "rgb(205, 105, 201)",
+        "Hex": "#CD69C9"
+    },
+    {
+        "Name": "orchid4",
+        "Color": "orchid4",
+        "RGB": "rgb(139, 71, 137)",
+        "Hex": "#8B4789"
+    },
+    {
+        "Name": "thistle1",
+        "Color": "thistle1",
+        "RGB": "rgb(255, 225, 255)",
+        "Hex": "#FFE1FF"
+    },
+    {
+        "Name": "thistle2",
+        "Color": "thistle2",
+        "RGB": "rgb(238, 210, 238)",
+        "Hex": "#EED2EE"
+    },
+    {
+        "Name": "plum1",
+        "Color": "plum1",
+        "RGB": "rgb(255, 187, 255)",
+        "Hex": "#FFBBFF"
+    },
+    {
+        "Name": "plum2",
+        "Color": "plum2",
+        "RGB": "rgb(238, 174, 238)",
+        "Hex": "#EEAEEE"
+    },
+    {
+        "Name": "thistle",
+        "Color": "thistle",
+        "RGB": "rgb(216, 191, 216)",
+        "Hex": "#D8BFD8"
+    },
+    {
+        "Name": "thistle3",
+        "Color": "thistle3",
+        "RGB": "rgb(205, 181, 205)",
+        "Hex": "#CDB5CD"
+    },
+    {
+        "Name": "plum",
+        "Color": "plum",
+        "RGB": "rgb(221, 160, 221)",
+        "Hex": "#DDA0DD"
+    },
+    {
+        "Name": "violet",
+        "Color": "violet",
+        "RGB": "rgb(238, 130, 238)",
+        "Hex": "#EE82EE"
+    },
+    {
+        "Name": "plum3",
+        "Color": "plum3",
+        "RGB": "rgb(205, 150, 205)",
+        "Hex": "#CD96CD"
+    },
+    {
+        "Name": "thistle4",
+        "Color": "thistle4",
+        "RGB": "rgb(139, 123, 139)",
+        "Hex": "#8B7B8B"
+    },
+    {
+        "Name": "fuchsia",
+        "Color": "fuchsia",
+        "RGB": "rgb(255, 0, 255)",
+        "Hex": "#FF00FF"
+    },
+    {
+        "Name": "magenta",
+        "Color": "magenta",
+        "RGB": "rgb(255, 0, 255)",
+        "Hex": "#FF00FF"
+    },
+    {
+        "Name": "magenta1",
+        "Color": "magenta1",
+        "RGB": "rgb(255, 0, 255)",
+        "Hex": "#FF00FF"
+    },
+    {
+        "Name": "plum4",
+        "Color": "plum4",
+        "RGB": "rgb(139, 102, 139)",
+        "Hex": "#8B668B"
+    },
+    {
+        "Name": "magenta2",
+        "Color": "magenta2",
+        "RGB": "rgb(238, 0, 238)",
+        "Hex": "#EE00EE"
+    },
+    {
+        "Name": "magenta3",
+        "Color": "magenta3",
+        "RGB": "rgb(205, 0, 205)",
+        "Hex": "#CD00CD"
+    },
+    {
+        "Name": "DarkMagenta",
+        "Color": "DarkMagenta",
+        "RGB": "rgb(139, 0, 139)",
+        "Hex": "#8B008B"
+    },
+    {
+        "Name": "magenta4",
+        "Color": "magenta4",
+        "RGB": "rgb(139, 0, 139)",
+        "Hex": "#8B008B"
+    },
+    {
+        "Name": "purple",
+        "Color": "purple (SVG compliance)",
+        "RGB": "rgb(128, 0, 128)",
+        "Hex": "#800080"
+    },
+    {
+        "Name": "MediumOrchid",
+        "Color": "MediumOrchid",
+        "RGB": "rgb(186, 85, 211)",
+        "Hex": "#BA55D3"
+    },
+    {
+        "Name": "MediumOrchid1",
+        "Color": "MediumOrchid1",
+        "RGB": "rgb(224, 102, 255)",
+        "Hex": "#E066FF"
+    },
+    {
+        "Name": "MediumOrchid2",
+        "Color": "MediumOrchid2",
+        "RGB": "rgb(209, 95, 238)",
+        "Hex": "#D15FEE"
+    },
+    {
+        "Name": "MediumOrchid3",
+        "Color": "MediumOrchid3",
+        "RGB": "rgb(180, 82, 205)",
+        "Hex": "#B452CD"
+    },
+    {
+        "Name": "MediumOrchid4",
+        "Color": "MediumOrchid4",
+        "RGB": "rgb(122, 55, 139)",
+        "Hex": "#7A378B"
+    },
+    {
+        "Name": "DarkViolet",
+        "Color": "DarkViolet",
+        "RGB": "rgb(148, 0, 211)",
+        "Hex": "#9400D3"
+    },
+    {
+        "Name": "DarkOrchid",
+        "Color": "DarkOrchid",
+        "RGB": "rgb(153, 50, 204)",
+        "Hex": "#9932CC"
+    },
+    {
+        "Name": "DarkOrchid1",
+        "Color": "DarkOrchid1",
+        "RGB": "rgb(191, 62, 255)",
+        "Hex": "#BF3EFF"
+    },
+    {
+        "Name": "DarkOrchid3",
+        "Color": "DarkOrchid3",
+        "RGB": "rgb(154, 50, 205)",
+        "Hex": "#9A32CD"
+    },
+    {
+        "Name": "DarkOrchid2",
+        "Color": "DarkOrchid2",
+        "RGB": "rgb(178, 58, 238)",
+        "Hex": "#B23AEE"
+    },
+    {
+        "Name": "DarkOrchid4",
+        "Color": "DarkOrchid4",
+        "RGB": "rgb(104, 34, 139)",
+        "Hex": "#68228B"
+    },
+    {
+        "Name": "purple",
+        "Color": "purple (X11 compliance)",
+        "RGB": "rgb(160, 32, 240)",
+        "Hex": "#A020F0"
+    },
+    {
+        "Name": "indigo",
+        "Color": "indigo",
+        "RGB": "rgb( 75, 0, 130)",
+        "Hex": "#4B0082"
+    },
+    {
+        "Name": "BlueViolet",
+        "Color": "BlueViolet",
+        "RGB": "rgb(138, 43, 226)",
+        "Hex": "#8A2BE2"
+    },
+    {
+        "Name": "purple2",
+        "Color": "purple2",
+        "RGB": "rgb(145, 44, 238)",
+        "Hex": "#912CEE"
+    },
+    {
+        "Name": "purple3",
+        "Color": "purple3",
+        "RGB": "rgb(125, 38, 205)",
+        "Hex": "#7D26CD"
+    },
+    {
+        "Name": "purple4",
+        "Color": "purple4",
+        "RGB": "rgb( 85, 26, 139)",
+        "Hex": "#551A8B"
+    },
+    {
+        "Name": "purple1",
+        "Color": "purple1",
+        "RGB": "rgb(155, 48, 255)",
+        "Hex": "#9B30FF"
+    },
+    {
+        "Name": "MediumPurple",
+        "Color": "MediumPurple",
+        "RGB": "rgb(147, 112, 219)",
+        "Hex": "#9370DB"
+    },
+    {
+        "Name": "MediumPurple1",
+        "Color": "MediumPurple1",
+        "RGB": "rgb(171, 130, 255)",
+        "Hex": "#AB82FF"
+    },
+    {
+        "Name": "MediumPurple2",
+        "Color": "MediumPurple2",
+        "RGB": "rgb(159, 121, 238)",
+        "Hex": "#9F79EE"
+    },
+    {
+        "Name": "MediumPurple3",
+        "Color": "MediumPurple3",
+        "RGB": "rgb(137, 104, 205)",
+        "Hex": "#8968CD"
+    },
+    {
+        "Name": "MediumPurple4",
+        "Color": "MediumPurple4",
+        "RGB": "rgb( 93, 71, 139)",
+        "Hex": "#5D478B"
+    },
+    {
+        "Name": "DarkSlateBlue",
+        "Color": "DarkSlateBlue",
+        "RGB": "rgb( 72, 61, 139)",
+        "Hex": "#483D8B"
+    },
+    {
+        "Name": "LightSlateBlue",
+        "Color": "LightSlateBlue",
+        "RGB": "rgb(132, 112, 255)",
+        "Hex": "#8470FF"
+    },
+    {
+        "Name": "MediumSlateBlue",
+        "Color": "MediumSlateBlue",
+        "RGB": "rgb(123, 104, 238)",
+        "Hex": "#7B68EE"
+    },
+    {
+        "Name": "SlateBlue",
+        "Color": "SlateBlue",
+        "RGB": "rgb(106, 90, 205)",
+        "Hex": "#6A5ACD"
+    },
+    {
+        "Name": "SlateBlue1",
+        "Color": "SlateBlue1",
+        "RGB": "rgb(131, 111, 255)",
+        "Hex": "#836FFF"
+    },
+    {
+        "Name": "SlateBlue2",
+        "Color": "SlateBlue2",
+        "RGB": "rgb(122, 103, 238)",
+        "Hex": "#7A67EE"
+    },
+    {
+        "Name": "SlateBlue3",
+        "Color": "SlateBlue3",
+        "RGB": "rgb(105, 89, 205)",
+        "Hex": "#6959CD"
+    },
+    {
+        "Name": "SlateBlue4",
+        "Color": "SlateBlue4",
+        "RGB": "rgb( 71, 60, 139)",
+        "Hex": "#473C8B"
+    },
+    {
+        "Name": "GhostWhite",
+        "Color": "GhostWhite",
+        "RGB": "rgb(248, 248, 255)",
+        "Hex": "#F8F8FF"
+    },
+    {
+        "Name": "lavender",
+        "Color": "lavender",
+        "RGB": "rgb(230, 230, 250)",
+        "Hex": "#E6E6FA"
+    },
+    {
+        "Name": "blue",
+        "Color": "blue",
+        "RGB": "rgb(0, 0, 255)",
+        "Hex": "#0000FF"
+    },
+    {
+        "Name": "blue1",
+        "Color": "blue1",
+        "RGB": "rgb(0, 0, 255)",
+        "Hex": "#0000FF"
+    },
+    {
+        "Name": "blue2",
+        "Color": "blue2",
+        "RGB": "rgb(0, 0, 238)",
+        "Hex": "#0000EE"
+    },
+    {
+        "Name": "blue3",
+        "Color": "blue3",
+        "RGB": "rgb(0, 0, 205)",
+        "Hex": "#0000CD"
+    },
+    {
+        "Name": "MediumBlue",
+        "Color": "MediumBlue",
+        "RGB": "rgb(0, 0, 205)",
+        "Hex": "#0000CD"
+    },
+    {
+        "Name": "blue4",
+        "Color": "blue4",
+        "RGB": "rgb(0, 0, 139)",
+        "Hex": "#00008B"
+    },
+    {
+        "Name": "DarkBlue",
+        "Color": "DarkBlue",
+        "RGB": "rgb(0, 0, 139)",
+        "Hex": "#00008B"
+    },
+    {
+        "Name": "MidnightBlue",
+        "Color": "MidnightBlue",
+        "RGB": "rgb( 25, 25, 112)",
+        "Hex": "#191970"
+    },
+    {
+        "Name": "navy",
+        "Color": "navy",
+        "RGB": "rgb(0, 0, 128)",
+        "Hex": "#000080"
+    },
+    {
+        "Name": "NavyBlue",
+        "Color": "NavyBlue",
+        "RGB": "rgb(0, 0, 128)",
+        "Hex": "#000080"
+    },
+    {
+        "Name": "RoyalBlue",
+        "Color": "RoyalBlue",
+        "RGB": "rgb( 65, 105, 225)",
+        "Hex": "#4169E1"
+    },
+    {
+        "Name": "RoyalBlue1",
+        "Color": "RoyalBlue1",
+        "RGB": "rgb( 72, 118, 255)",
+        "Hex": "#4876FF"
+    },
+    {
+        "Name": "RoyalBlue2",
+        "Color": "RoyalBlue2",
+        "RGB": "rgb( 67, 110, 238)",
+        "Hex": "#436EEE"
+    },
+    {
+        "Name": "RoyalBlue3",
+        "Color": "RoyalBlue3",
+        "RGB": "rgb( 58, 95, 205)",
+        "Hex": "#3A5FCD"
+    },
+    {
+        "Name": "RoyalBlue4",
+        "Color": "RoyalBlue4",
+        "RGB": "rgb( 39, 64, 139)",
+        "Hex": "#27408B"
+    },
+    {
+        "Name": "CornflowerBlue",
+        "Color": "CornflowerBlue",
+        "RGB": "rgb(100, 149, 237)",
+        "Hex": "#6495ED"
+    },
+    {
+        "Name": "LightSteelBlue",
+        "Color": "LightSteelBlue",
+        "RGB": "rgb(176, 196, 222)",
+        "Hex": "#B0C4DE"
+    },
+    {
+        "Name": "LightSteelBlue1",
+        "Color": "LightSteelBlue1",
+        "RGB": "rgb(202, 225, 255)",
+        "Hex": "#CAE1FF"
+    },
+    {
+        "Name": "LightSteelBlue2",
+        "Color": "LightSteelBlue2",
+        "RGB": "rgb(188, 210, 238)",
+        "Hex": "#BCD2EE"
+    },
+    {
+        "Name": "LightSteelBlue3",
+        "Color": "LightSteelBlue3",
+        "RGB": "rgb(162, 181, 205)",
+        "Hex": "#A2B5CD"
+    },
+    {
+        "Name": "LightSteelBlue4",
+        "Color": "LightSteelBlue4",
+        "RGB": "rgb(110, 123, 139)",
+        "Hex": "#6E7B8B"
+    },
+    {
+        "Name": "SlateGray4",
+        "Color": "SlateGray4",
+        "RGB": "rgb(108, 123, 139)",
+        "Hex": "#6C7B8B"
+    },
+    {
+        "Name": "SlateGray1",
+        "Color": "SlateGray1",
+        "RGB": "rgb(198, 226, 255)",
+        "Hex": "#C6E2FF"
+    },
+    {
+        "Name": "SlateGray2",
+        "Color": "SlateGray2",
+        "RGB": "rgb(185, 211, 238)",
+        "Hex": "#B9D3EE"
+    },
+    {
+        "Name": "SlateGray3",
+        "Color": "SlateGray3",
+        "RGB": "rgb(159, 182, 205)",
+        "Hex": "#9FB6CD"
+    },
+    {
+        "Name": "LightSlateGray",
+        "Color": "LightSlateGray",
+        "RGB": "rgb(119, 136, 153)",
+        "Hex": "#778899"
+    },
+    {
+        "Name": "LightSlateGrey",
+        "Color": "LightSlateGrey",
+        "RGB": "rgb(119, 136, 153)",
+        "Hex": "#778899"
+    },
+    {
+        "Name": "SlateGray",
+        "Color": "SlateGray",
+        "RGB": "rgb(112, 128, 144)",
+        "Hex": "#708090"
+    },
+    {
+        "Name": "SlateGrey",
+        "Color": "SlateGrey",
+        "RGB": "rgb(112, 128, 144)",
+        "Hex": "#708090"
+    },
+    {
+        "Name": "DodgerBlue",
+        "Color": "DodgerBlue",
+        "RGB": "rgb( 30, 144, 255)",
+        "Hex": "#1E90FF"
+    },
+    {
+        "Name": "DodgerBlue1",
+        "Color": "DodgerBlue1",
+        "RGB": "rgb( 30, 144, 255)",
+        "Hex": "#1E90FF"
+    },
+    {
+        "Name": "DodgerBlue2",
+        "Color": "DodgerBlue2",
+        "RGB": "rgb( 28, 134, 238)",
+        "Hex": "#1C86EE"
+    },
+    {
+        "Name": "DodgerBlue4",
+        "Color": "DodgerBlue4",
+        "RGB": "rgb( 16, 78, 139)",
+        "Hex": "#104E8B"
+    },
+    {
+        "Name": "DodgerBlue3",
+        "Color": "DodgerBlue3",
+        "RGB": "rgb( 24, 116, 205)",
+        "Hex": "#1874CD"
+    },
+    {
+        "Name": "AliceBlue",
+        "Color": "AliceBlue",
+        "RGB": "rgb(240, 248, 255)",
+        "Hex": "#F0F8FF"
+    },
+    {
+        "Name": "SteelBlue4",
+        "Color": "SteelBlue4",
+        "RGB": "rgb( 54, 100, 139)",
+        "Hex": "#36648B"
+    },
+    {
+        "Name": "SteelBlue",
+        "Color": "SteelBlue",
+        "RGB": "rgb( 70, 130, 180)",
+        "Hex": "#4682B4"
+    },
+    {
+        "Name": "SteelBlue1",
+        "Color": "SteelBlue1",
+        "RGB": "rgb( 99, 184, 255)",
+        "Hex": "#63B8FF"
+    },
+    {
+        "Name": "SteelBlue2",
+        "Color": "SteelBlue2",
+        "RGB": "rgb( 92, 172, 238)",
+        "Hex": "#5CACEE"
+    },
+    {
+        "Name": "SteelBlue3",
+        "Color": "SteelBlue3",
+        "RGB": "rgb( 79, 148, 205)",
+        "Hex": "#4F94CD"
+    },
+    {
+        "Name": "SkyBlue4",
+        "Color": "SkyBlue4",
+        "RGB": "rgb( 74, 112, 139)",
+        "Hex": "#4A708B"
+    },
+    {
+        "Name": "SkyBlue1",
+        "Color": "SkyBlue1",
+        "RGB": "rgb(135, 206, 255)",
+        "Hex": "#87CEFF"
+    },
+    {
+        "Name": "SkyBlue2",
+        "Color": "SkyBlue2",
+        "RGB": "rgb(126, 192, 238)",
+        "Hex": "#7EC0EE"
+    },
+    {
+        "Name": "SkyBlue3",
+        "Color": "SkyBlue3",
+        "RGB": "rgb(108, 166, 205)",
+        "Hex": "#6CA6CD"
+    },
+    {
+        "Name": "LightSkyBlue",
+        "Color": "LightSkyBlue",
+        "RGB": "rgb(135, 206, 250)",
+        "Hex": "#87CEFA"
+    },
+    {
+        "Name": "LightSkyBlue4",
+        "Color": "LightSkyBlue4",
+        "RGB": "rgb( 96, 123, 139)",
+        "Hex": "#607B8B"
+    },
+    {
+        "Name": "LightSkyBlue1",
+        "Color": "LightSkyBlue1",
+        "RGB": "rgb(176, 226, 255)",
+        "Hex": "#B0E2FF"
+    },
+    {
+        "Name": "LightSkyBlue2",
+        "Color": "LightSkyBlue2",
+        "RGB": "rgb(164, 211, 238)",
+        "Hex": "#A4D3EE"
+    },
+    {
+        "Name": "LightSkyBlue3",
+        "Color": "LightSkyBlue3",
+        "RGB": "rgb(141, 182, 205)",
+        "Hex": "#8DB6CD"
+    },
+    {
+        "Name": "SkyBlue",
+        "Color": "SkyBlue",
+        "RGB": "rgb(135, 206, 235)",
+        "Hex": "#87CEEB"
+    },
+    {
+        "Name": "LightBlue3",
+        "Color": "LightBlue3",
+        "RGB": "rgb(154, 192, 205)",
+        "Hex": "#9AC0CD"
+    },
+    {
+        "Name": "DeepSkyBlue",
+        "Color": "DeepSkyBlue",
+        "RGB": "rgb(0, 191, 255)",
+        "Hex": "#00BFFF"
+    },
+    {
+        "Name": "DeepSkyBlue1",
+        "Color": "DeepSkyBlue1",
+        "RGB": "rgb(0, 191, 255)",
+        "Hex": "#00BFFF"
+    },
+    {
+        "Name": "DeepSkyBlue2",
+        "Color": "DeepSkyBlue2",
+        "RGB": "rgb(0, 178, 238)",
+        "Hex": "#00B2EE"
+    },
+    {
+        "Name": "DeepSkyBlue4",
+        "Color": "DeepSkyBlue4",
+        "RGB": "rgb(0, 104, 139)",
+        "Hex": "#00688B"
+    },
+    {
+        "Name": "DeepSkyBlue3",
+        "Color": "DeepSkyBlue3",
+        "RGB": "rgb(0, 154, 205)",
+        "Hex": "#009ACD"
+    },
+    {
+        "Name": "LightBlue1",
+        "Color": "LightBlue1",
+        "RGB": "rgb(191, 239, 255)",
+        "Hex": "#BFEFFF"
+    },
+    {
+        "Name": "LightBlue2",
+        "Color": "LightBlue2",
+        "RGB": "rgb(178, 223, 238)",
+        "Hex": "#B2DFEE"
+    },
+    {
+        "Name": "LightBlue",
+        "Color": "LightBlue",
+        "RGB": "rgb(173, 216, 230)",
+        "Hex": "#ADD8E6"
+    },
+    {
+        "Name": "LightBlue4",
+        "Color": "LightBlue4",
+        "RGB": "rgb(104, 131, 139)",
+        "Hex": "#68838B"
+    },
+    {
+        "Name": "PowderBlue",
+        "Color": "PowderBlue",
+        "RGB": "rgb(176, 224, 230)",
+        "Hex": "#B0E0E6"
+    },
+    {
+        "Name": "CadetBlue1",
+        "Color": "CadetBlue1",
+        "RGB": "rgb(152, 245, 255)",
+        "Hex": "#98F5FF"
+    },
+    {
+        "Name": "CadetBlue2",
+        "Color": "CadetBlue2",
+        "RGB": "rgb(142, 229, 238)",
+        "Hex": "#8EE5EE"
+    },
+    {
+        "Name": "CadetBlue3",
+        "Color": "CadetBlue3",
+        "RGB": "rgb(122, 197, 205)",
+        "Hex": "#7AC5CD"
+    },
+    {
+        "Name": "CadetBlue4",
+        "Color": "CadetBlue4",
+        "RGB": "rgb( 83, 134, 139)",
+        "Hex": "#53868B"
+    },
+    {
+        "Name": "turquoise1",
+        "Color": "turquoise1",
+        "RGB": "rgb(0, 245, 255)",
+        "Hex": "#00F5FF"
+    },
+    {
+        "Name": "turquoise2",
+        "Color": "turquoise2",
+        "RGB": "rgb(0, 229, 238)",
+        "Hex": "#00E5EE"
+    },
+    {
+        "Name": "turquoise3",
+        "Color": "turquoise3",
+        "RGB": "rgb(0, 197, 205)",
+        "Hex": "#00C5CD"
+    },
+    {
+        "Name": "turquoise4",
+        "Color": "turquoise4",
+        "RGB": "rgb(0, 134, 139)",
+        "Hex": "#00868B"
+    },
+    {
+        "Name": "cadet blue",
+        "Color": "cadet blue",
+        "RGB": "rgb( 95, 158, 160)",
+        "Hex": "#5F9EA0"
+    },
+    {
+        "Name": "CadetBlue",
+        "Color": "CadetBlue",
+        "RGB": "rgb( 95, 158, 160)",
+        "Hex": "#5F9EA0"
+    },
+    {
+        "Name": "DarkTurquoise",
+        "Color": "DarkTurquoise",
+        "RGB": "rgb(0, 206, 209)",
+        "Hex": "#00CED1"
+    },
+    {
+        "Name": "azure",
+        "Color": "azure",
+        "RGB": "rgb(240, 255, 255)",
+        "Hex": "#F0FFFF"
+    },
+    {
+        "Name": "azure1",
+        "Color": "azure1",
+        "RGB": "rgb(240, 255, 255)",
+        "Hex": "#F0FFFF"
+    },
+    {
+        "Name": "LightCyan",
+        "Color": "LightCyan",
+        "RGB": "rgb(224, 255, 255)",
+        "Hex": "#E0FFFF"
+    },
+    {
+        "Name": "LightCyan1",
+        "Color": "LightCyan1",
+        "RGB": "rgb(224, 255, 255)",
+        "Hex": "#E0FFFF"
+    },
+    {
+        "Name": "azure2",
+        "Color": "azure2",
+        "RGB": "rgb(224, 238, 238)",
+        "Hex": "#E0EEEE"
+    },
+    {
+        "Name": "LightCyan2",
+        "Color": "LightCyan2",
+        "RGB": "rgb(209, 238, 238)",
+        "Hex": "#D1EEEE"
+    },
+    {
+        "Name": "PaleTurquoise1",
+        "Color": "PaleTurquoise1",
+        "RGB": "rgb(187, 255, 255)",
+        "Hex": "#BBFFFF"
+    },
+    {
+        "Name": "PaleTurquoise",
+        "Color": "PaleTurquoise",
+        "RGB": "rgb(175, 238, 238)",
+        "Hex": "#AFEEEE"
+    },
+    {
+        "Name": "PaleTurquoise2",
+        "Color": "PaleTurquoise2",
+        "RGB": "rgb(174, 238, 238)",
+        "Hex": "#AEEEEE"
+    },
+    {
+        "Name": "DarkSlateGray1",
+        "Color": "DarkSlateGray1",
+        "RGB": "rgb(151, 255, 255)",
+        "Hex": "#97FFFF"
+    },
+    {
+        "Name": "azure3",
+        "Color": "azure3",
+        "RGB": "rgb(193, 205, 205)",
+        "Hex": "#C1CDCD"
+    },
+    {
+        "Name": "LightCyan3",
+        "Color": "LightCyan3",
+        "RGB": "rgb(180, 205, 205)",
+        "Hex": "#B4CDCD"
+    },
+    {
+        "Name": "DarkSlateGray2",
+        "Color": "DarkSlateGray2",
+        "RGB": "rgb(141, 238, 238)",
+        "Hex": "#8DEEEE"
+    },
+    {
+        "Name": "PaleTurquoise3",
+        "Color": "PaleTurquoise3",
+        "RGB": "rgb(150, 205, 205)",
+        "Hex": "#96CDCD"
+    },
+    {
+        "Name": "DarkSlateGray3",
+        "Color": "DarkSlateGray3",
+        "RGB": "rgb(121, 205, 205)",
+        "Hex": "#79CDCD"
+    },
+    {
+        "Name": "azure4",
+        "Color": "azure4",
+        "RGB": "rgb(131, 139, 139)",
+        "Hex": "#838B8B"
+    },
+    {
+        "Name": "LightCyan4",
+        "Color": "LightCyan4",
+        "RGB": "rgb(122, 139, 139)",
+        "Hex": "#7A8B8B"
+    },
+    {
+        "Name": "aqua",
+        "Color": "aqua",
+        "RGB": "rgb(0, 255, 255)",
+        "Hex": "#00FFFF"
+    },
+    {
+        "Name": "cyan",
+        "Color": "cyan",
+        "RGB": "rgb(0, 255, 255)",
+        "Hex": "#00FFFF"
+    },
+    {
+        "Name": "cyan1",
+        "Color": "cyan1",
+        "RGB": "rgb(0, 255, 255)",
+        "Hex": "#00FFFF"
+    },
+    {
+        "Name": "PaleTurquoise4",
+        "Color": "PaleTurquoise4",
+        "RGB": "rgb(102, 139, 139)",
+        "Hex": "#668B8B"
+    },
+    {
+        "Name": "cyan2",
+        "Color": "cyan2",
+        "RGB": "rgb(0, 238, 238)",
+        "Hex": "#00EEEE"
+    },
+    {
+        "Name": "DarkSlateGray4",
+        "Color": "DarkSlateGray4",
+        "RGB": "rgb( 82, 139, 139)",
+        "Hex": "#528B8B"
+    },
+    {
+        "Name": "cyan3",
+        "Color": "cyan3",
+        "RGB": "rgb(0, 205, 205)",
+        "Hex": "#00CDCD"
+    },
+    {
+        "Name": "cyan4",
+        "Color": "cyan4",
+        "RGB": "rgb(0, 139, 139)",
+        "Hex": "#008B8B"
+    },
+    {
+        "Name": "DarkCyan",
+        "Color": "DarkCyan",
+        "RGB": "rgb(0, 139, 139)",
+        "Hex": "#008B8B"
+    },
+    {
+        "Name": "teal",
+        "Color": "teal",
+        "RGB": "rgb(0, 128, 128)",
+        "Hex": "#008080"
+    },
+    {
+        "Name": "DarkSlateGray",
+        "Color": "DarkSlateGray",
+        "RGB": "rgb( 47, 79, 79)",
+        "Hex": "#2F4F4F"
+    },
+    {
+        "Name": "DarkSlateGrey",
+        "Color": "DarkSlateGrey",
+        "RGB": "rgb( 47, 79, 79)",
+        "Hex": "#2F4F4F"
+    },
+    {
+        "Name": "MediumTurquoise",
+        "Color": "MediumTurquoise",
+        "RGB": "rgb( 72, 209, 204)",
+        "Hex": "#48D1CC"
+    },
+    {
+        "Name": "LightSeaGreen",
+        "Color": "LightSeaGreen",
+        "RGB": "rgb( 32, 178, 170)",
+        "Hex": "#20B2AA"
+    },
+    {
+        "Name": "turquoise",
+        "Color": "turquoise",
+        "RGB": "rgb( 64, 224, 208)",
+        "Hex": "#40E0D0"
+    },
+    {
+        "Name": "aquamarine4",
+        "Color": "aquamarine4",
+        "RGB": "rgb( 69, 139, 116)",
+        "Hex": "#458B74"
+    },
+    {
+        "Name": "aquamarine",
+        "Color": "aquamarine",
+        "RGB": "rgb(127, 255, 212)",
+        "Hex": "#7FFFD4"
+    },
+    {
+        "Name": "aquamarine1",
+        "Color": "aquamarine1",
+        "RGB": "rgb(127, 255, 212)",
+        "Hex": "#7FFFD4"
+    },
+    {
+        "Name": "aquamarine2",
+        "Color": "aquamarine2",
+        "RGB": "rgb(118, 238, 198)",
+        "Hex": "#76EEC6"
+    },
+    {
+        "Name": "aquamarine3",
+        "Color": "aquamarine3",
+        "RGB": "rgb(102, 205, 170)",
+        "Hex": "#66CDAA"
+    },
+    {
+        "Name": "MediumAquamarine",
+        "Color": "MediumAquamarine",
+        "RGB": "rgb(102, 205, 170)",
+        "Hex": "#66CDAA"
+    },
+    {
+        "Name": "MediumSpringGreen",
+        "Color": "MediumSpringGreen",
+        "RGB": "rgb(0, 250, 154)",
+        "Hex": "#00FA9A"
+    },
+    {
+        "Name": "MintCream",
+        "Color": "MintCream",
+        "RGB": "rgb(245, 255, 250)",
+        "Hex": "#F5FFFA"
+    },
+    {
+        "Name": "SpringGreen",
+        "Color": "SpringGreen",
+        "RGB": "rgb(0, 255, 127)",
+        "Hex": "#00FF7F"
+    },
+    {
+        "Name": "SpringGreen1",
+        "Color": "SpringGreen1",
+        "RGB": "rgb(0, 255, 127)",
+        "Hex": "#00FF7F"
+    },
+    {
+        "Name": "SpringGreen2",
+        "Color": "SpringGreen2",
+        "RGB": "rgb(0, 238, 118)",
+        "Hex": "#00EE76"
+    },
+    {
+        "Name": "SpringGreen3",
+        "Color": "SpringGreen3",
+        "RGB": "rgb(0, 205, 102)",
+        "Hex": "#00CD66"
+    },
+    {
+        "Name": "SpringGreen4",
+        "Color": "SpringGreen4",
+        "RGB": "rgb(0, 139, 69)",
+        "Hex": "#008B45"
+    },
+    {
+        "Name": "MediumSeaGreen",
+        "Color": "MediumSeaGreen",
+        "RGB": "rgb( 60, 179, 113)",
+        "Hex": "#3CB371"
+    },
+    {
+        "Name": "SeaGreen",
+        "Color": "SeaGreen",
+        "RGB": "rgb( 46, 139, 87)",
+        "Hex": "#2E8B57"
+    },
+    {
+        "Name": "SeaGreen3",
+        "Color": "SeaGreen3",
+        "RGB": "rgb( 67, 205, 128)",
+        "Hex": "#43CD80"
+    },
+    {
+        "Name": "SeaGreen1",
+        "Color": "SeaGreen1",
+        "RGB": "rgb( 84, 255, 159)",
+        "Hex": "#54FF9F"
+    },
+    {
+        "Name": "SeaGreen4",
+        "Color": "SeaGreen4",
+        "RGB": "rgb( 46, 139, 87)",
+        "Hex": "#2E8B57"
+    },
+    {
+        "Name": "SeaGreen2",
+        "Color": "SeaGreen2",
+        "RGB": "rgb( 78, 238, 148)",
+        "Hex": "#4EEE94"
+    },
+    {
+        "Name": "MediumForestGreen",
+        "Color": "MediumForestGreen",
+        "RGB": "rgb( 50, 129, 75)",
+        "Hex": "#32814B"
+    },
+    {
+        "Name": "honeydew",
+        "Color": "honeydew",
+        "RGB": "rgb(240, 255, 240)",
+        "Hex": "#F0FFF0"
+    },
+    {
+        "Name": "honeydew1",
+        "Color": "honeydew1",
+        "RGB": "rgb(240, 255, 240)",
+        "Hex": "#F0FFF0"
+    },
+    {
+        "Name": "honeydew2",
+        "Color": "honeydew2",
+        "RGB": "rgb(224, 238, 224)",
+        "Hex": "#E0EEE0"
+    },
+    {
+        "Name": "DarkSeaGreen1",
+        "Color": "DarkSeaGreen1",
+        "RGB": "rgb(193, 255, 193)",
+        "Hex": "#C1FFC1"
+    },
+    {
+        "Name": "DarkSeaGreen2",
+        "Color": "DarkSeaGreen2",
+        "RGB": "rgb(180, 238, 180)",
+        "Hex": "#B4EEB4"
+    },
+    {
+        "Name": "PaleGreen1",
+        "Color": "PaleGreen1",
+        "RGB": "rgb(154, 255, 154)",
+        "Hex": "#9AFF9A"
+    },
+    {
+        "Name": "PaleGreen",
+        "Color": "PaleGreen",
+        "RGB": "rgb(152, 251, 152)",
+        "Hex": "#98FB98"
+    },
+    {
+        "Name": "honeydew3",
+        "Color": "honeydew3",
+        "RGB": "rgb(193, 205, 193)",
+        "Hex": "#C1CDC1"
+    },
+    {
+        "Name": "LightGreen",
+        "Color": "LightGreen",
+        "RGB": "rgb(144, 238, 144)",
+        "Hex": "#90EE90"
+    },
+    {
+        "Name": "PaleGreen2",
+        "Color": "PaleGreen2",
+        "RGB": "rgb(144, 238, 144)",
+        "Hex": "#90EE90"
+    },
+    {
+        "Name": "DarkSeaGreen3",
+        "Color": "DarkSeaGreen3",
+        "RGB": "rgb(155, 205, 155)",
+        "Hex": "#9BCD9B"
+    },
+    {
+        "Name": "DarkSeaGreen",
+        "Color": "DarkSeaGreen",
+        "RGB": "rgb(143, 188, 143)",
+        "Hex": "#8FBC8F"
+    },
+    {
+        "Name": "PaleGreen3",
+        "Color": "PaleGreen3",
+        "RGB": "rgb(124, 205, 124)",
+        "Hex": "#7CCD7C"
+    },
+    {
+        "Name": "honeydew4",
+        "Color": "honeydew4",
+        "RGB": "rgb(131, 139, 131)",
+        "Hex": "#838B83"
+    },
+    {
+        "Name": "green1",
+        "Color": "green1",
+        "RGB": "rgb(0, 255, 0)",
+        "Hex": "#00FF00"
+    },
+    {
+        "Name": "lime",
+        "Color": "lime",
+        "RGB": "rgb(0, 255, 0)",
+        "Hex": "#00FF00"
+    },
+    {
+        "Name": "LimeGreen",
+        "Color": "LimeGreen",
+        "RGB": "rgb( 50, 205, 50)",
+        "Hex": "#32CD32"
+    },
+    {
+        "Name": "DarkSeaGreen4",
+        "Color": "DarkSeaGreen4",
+        "RGB": "rgb(105, 139, 105)",
+        "Hex": "#698B69"
+    },
+    {
+        "Name": "green2",
+        "Color": "green2",
+        "RGB": "rgb(0, 238, 0)",
+        "Hex": "#00EE00"
+    },
+    {
+        "Name": "PaleGreen4",
+        "Color": "PaleGreen4",
+        "RGB": "rgb( 84, 139, 84)",
+        "Hex": "#548B54"
+    },
+    {
+        "Name": "green3",
+        "Color": "green3",
+        "RGB": "rgb(0, 205, 0)",
+        "Hex": "#00CD00"
+    },
+    {
+        "Name": "ForestGreen",
+        "Color": "ForestGreen",
+        "RGB": "rgb( 34, 139, 34)",
+        "Hex": "#228B22"
+    },
+    {
+        "Name": "green4",
+        "Color": "green4",
+        "RGB": "rgb(0, 139, 0)",
+        "Hex": "#008B00"
+    },
+    {
+        "Name": "green",
+        "Color": "green",
+        "RGB": "rgb(0, 128, 0)",
+        "Hex": "#008000"
+    },
+    {
+        "Name": "DarkGreen",
+        "Color": "DarkGreen",
+        "RGB": "rgb(0, 100, 0)",
+        "Hex": "#006400"
+    },
+    {
+        "Name": "LawnGreen",
+        "Color": "LawnGreen",
+        "RGB": "rgb(124, 252, 0)",
+        "Hex": "#7CFC00"
+    },
+    {
+        "Name": "chartreuse",
+        "Color": "chartreuse",
+        "RGB": "rgb(127, 255, 0)",
+        "Hex": "#7FFF00"
+    },
+    {
+        "Name": "chartreuse1",
+        "Color": "chartreuse1",
+        "RGB": "rgb(127, 255, 0)",
+        "Hex": "#7FFF00"
+    },
+    {
+        "Name": "chartreuse2",
+        "Color": "chartreuse2",
+        "RGB": "rgb(118, 238, 0)",
+        "Hex": "#76EE00"
+    },
+    {
+        "Name": "chartreuse3",
+        "Color": "chartreuse3",
+        "RGB": "rgb(102, 205, 0)",
+        "Hex": "#66CD00"
+    },
+    {
+        "Name": "chartreuse4",
+        "Color": "chartreuse4",
+        "RGB": "rgb( 69, 139, 0)",
+        "Hex": "#458B00"
+    },
+    {
+        "Name": "GreenYellow",
+        "Color": "GreenYellow",
+        "RGB": "rgb(173, 255, 47)",
+        "Hex": "#ADFF2F"
+    },
+    {
+        "Name": "DarkOliveGreen3",
+        "Color": "DarkOliveGreen3",
+        "RGB": "rgb(162, 205, 90)",
+        "Hex": "#A2CD5A"
+    },
+    {
+        "Name": "DarkOliveGreen1",
+        "Color": "DarkOliveGreen1",
+        "RGB": "rgb(202, 255, 112)",
+        "Hex": "#CAFF70"
+    },
+    {
+        "Name": "DarkOliveGreen2",
+        "Color": "DarkOliveGreen2",
+        "RGB": "rgb(188, 238, 104)",
+        "Hex": "#BCEE68"
+    },
+    {
+        "Name": "DarkOliveGreen4",
+        "Color": "DarkOliveGreen4",
+        "RGB": "rgb(110, 139, 61)",
+        "Hex": "#6E8B3D"
+    },
+    {
+        "Name": "DarkOliveGreen",
+        "Color": "DarkOliveGreen",
+        "RGB": "rgb( 85, 107, 47)",
+        "Hex": "#556B2F"
+    },
+    {
+        "Name": "OliveDrab",
+        "Color": "OliveDrab",
+        "RGB": "rgb(107, 142, 35)",
+        "Hex": "#6B8E23"
+    },
+    {
+        "Name": "OliveDrab1",
+        "Color": "OliveDrab1",
+        "RGB": "rgb(192, 255, 62)",
+        "Hex": "#C0FF3E"
+    },
+    {
+        "Name": "OliveDrab2",
+        "Color": "OliveDrab2",
+        "RGB": "rgb(179, 238, 58)",
+        "Hex": "#B3EE3A"
+    },
+    {
+        "Name": "OliveDrab3",
+        "Color": "OliveDrab3",
+        "RGB": "rgb(154, 205, 50)",
+        "Hex": "#9ACD32"
+    },
+    {
+        "Name": "YellowGreen",
+        "Color": "YellowGreen",
+        "RGB": "rgb(154, 205, 50)",
+        "Hex": "#9ACD32"
+    },
+    {
+        "Name": "OliveDrab4",
+        "Color": "OliveDrab4",
+        "RGB": "rgb(105, 139, 34)",
+        "Hex": "#698B22"
+    },
+    {
+        "Name": "ivory",
+        "Color": "ivory",
+        "RGB": "rgb(255, 255, 240)",
+        "Hex": "#FFFFF0"
+    },
+    {
+        "Name": "ivory1",
+        "Color": "ivory1",
+        "RGB": "rgb(255, 255, 240)",
+        "Hex": "#FFFFF0"
+    },
+    {
+        "Name": "LightYellow",
+        "Color": "LightYellow",
+        "RGB": "rgb(255, 255, 224)",
+        "Hex": "#FFFFE0"
+    },
+    {
+        "Name": "LightYellow1",
+        "Color": "LightYellow1",
+        "RGB": "rgb(255, 255, 224)",
+        "Hex": "#FFFFE0"
+    },
+    {
+        "Name": "beige",
+        "Color": "beige",
+        "RGB": "rgb(245, 245, 220)",
+        "Hex": "#F5F5DC"
+    },
+    {
+        "Name": "ivory2",
+        "Color": "ivory2",
+        "RGB": "rgb(238, 238, 224)",
+        "Hex": "#EEEEE0"
+    },
+    {
+        "Name": "LightGoldenrodYellow",
+        "Color": "LightGoldenrodYellow",
+        "RGB": "rgb(250, 250, 210)",
+        "Hex": "#FAFAD2"
+    },
+    {
+        "Name": "LightYellow2",
+        "Color": "LightYellow2",
+        "RGB": "rgb(238, 238, 209)",
+        "Hex": "#EEEED1"
+    },
+    {
+        "Name": "ivory3",
+        "Color": "ivory3",
+        "RGB": "rgb(205, 205, 193)",
+        "Hex": "#CDCDC1"
+    },
+    {
+        "Name": "LightYellow3",
+        "Color": "LightYellow3",
+        "RGB": "rgb(205, 205, 180)",
+        "Hex": "#CDCDB4"
+    },
+    {
+        "Name": "ivory4",
+        "Color": "ivory4",
+        "RGB": "rgb(139, 139, 131)",
+        "Hex": "#8B8B83"
+    },
+    {
+        "Name": "LightYellow4",
+        "Color": "LightYellow4",
+        "RGB": "rgb(139, 139, 122)",
+        "Hex": "#8B8B7A"
+    },
+    {
+        "Name": "yellow",
+        "Color": "yellow",
+        "RGB": "rgb(255, 255, 0)",
+        "Hex": "#FFFF00"
+    },
+    {
+        "Name": "yellow1",
+        "Color": "yellow1",
+        "RGB": "rgb(255, 255, 0)",
+        "Hex": "#FFFF00"
+    },
+    {
+        "Name": "yellow2",
+        "Color": "yellow2",
+        "RGB": "rgb(238, 238, 0)",
+        "Hex": "#EEEE00"
+    },
+    {
+        "Name": "yellow3",
+        "Color": "yellow3",
+        "RGB": "rgb(205, 205, 0)",
+        "Hex": "#CDCD00"
+    },
+    {
+        "Name": "yellow4",
+        "Color": "yellow4",
+        "RGB": "rgb(139, 139, 0)",
+        "Hex": "#8B8B00"
+    },
+    {
+        "Name": "olive",
+        "Color": "olive",
+        "RGB": "rgb(128, 128, 0)",
+        "Hex": "#808000"
+    },
+    {
+        "Name": "DarkKhaki",
+        "Color": "DarkKhaki",
+        "RGB": "rgb(189, 183, 107)",
+        "Hex": "#BDB76B"
+    },
+    {
+        "Name": "khaki2",
+        "Color": "khaki2",
+        "RGB": "rgb(238, 230, 133)",
+        "Hex": "#EEE685"
+    },
+    {
+        "Name": "LemonChiffon4",
+        "Color": "LemonChiffon4",
+        "RGB": "rgb(139, 137, 112)",
+        "Hex": "#8B8970"
+    },
+    {
+        "Name": "khaki1",
+        "Color": "khaki1",
+        "RGB": "rgb(255, 246, 143)",
+        "Hex": "#FFF68F"
+    },
+    {
+        "Name": "khaki3",
+        "Color": "khaki3",
+        "RGB": "rgb(205, 198, 115)",
+        "Hex": "#CDC673"
+    },
+    {
+        "Name": "khaki4",
+        "Color": "khaki4",
+        "RGB": "rgb(139, 134, 78)",
+        "Hex": "#8B864E"
+    },
+    {
+        "Name": "PaleGoldenrod",
+        "Color": "PaleGoldenrod",
+        "RGB": "rgb(238, 232, 170)",
+        "Hex": "#EEE8AA"
+    },
+    {
+        "Name": "LemonChiffon",
+        "Color": "LemonChiffon",
+        "RGB": "rgb(255, 250, 205)",
+        "Hex": "#FFFACD"
+    },
+    {
+        "Name": "LemonChiffon1",
+        "Color": "LemonChiffon1",
+        "RGB": "rgb(255, 250, 205)",
+        "Hex": "#FFFACD"
+    },
+    {
+        "Name": "khaki",
+        "Color": "khaki",
+        "RGB": "rgb(240, 230, 140)",
+        "Hex": "#F0E68C"
+    },
+    {
+        "Name": "LemonChiffon3",
+        "Color": "LemonChiffon3",
+        "RGB": "rgb(205, 201, 165)",
+        "Hex": "#CDC9A5"
+    },
+    {
+        "Name": "LemonChiffon2",
+        "Color": "LemonChiffon2",
+        "RGB": "rgb(238, 233, 191)",
+        "Hex": "#EEE9BF"
+    },
+    {
+        "Name": "MediumGoldenRod",
+        "Color": "MediumGoldenRod",
+        "RGB": "rgb(209, 193, 102)",
+        "Hex": "#D1C166"
+    },
+    {
+        "Name": "cornsilk4",
+        "Color": "cornsilk4",
+        "RGB": "rgb(139, 136, 120)",
+        "Hex": "#8B8878"
+    },
+    {
+        "Name": "gold",
+        "Color": "gold",
+        "RGB": "rgb(255, 215, 0)",
+        "Hex": "#FFD700"
+    },
+    {
+        "Name": "gold1",
+        "Color": "gold1",
+        "RGB": "rgb(255, 215, 0)",
+        "Hex": "#FFD700"
+    },
+    {
+        "Name": "gold2",
+        "Color": "gold2",
+        "RGB": "rgb(238, 201, 0)",
+        "Hex": "#EEC900"
+    },
+    {
+        "Name": "gold3",
+        "Color": "gold3",
+        "RGB": "rgb(205, 173, 0)",
+        "Hex": "#CDAD00"
+    },
+    {
+        "Name": "gold4",
+        "Color": "gold4",
+        "RGB": "rgb(139, 117, 0)",
+        "Hex": "#8B7500"
+    },
+    {
+        "Name": "LightGoldenrod",
+        "Color": "LightGoldenrod",
+        "RGB": "rgb(238, 221, 130)",
+        "Hex": "#EEDD82"
+    },
+    {
+        "Name": "LightGoldenrod4",
+        "Color": "LightGoldenrod4",
+        "RGB": "rgb(139, 129, 76)",
+        "Hex": "#8B814C"
+    },
+    {
+        "Name": "LightGoldenrod1",
+        "Color": "LightGoldenrod1",
+        "RGB": "rgb(255, 236, 139)",
+        "Hex": "#FFEC8B"
+    },
+    {
+        "Name": "LightGoldenrod3",
+        "Color": "LightGoldenrod3",
+        "RGB": "rgb(205, 190, 112)",
+        "Hex": "#CDBE70"
+    },
+    {
+        "Name": "LightGoldenrod2",
+        "Color": "LightGoldenrod2",
+        "RGB": "rgb(238, 220, 130)",
+        "Hex": "#EEDC82"
+    },
+    {
+        "Name": "cornsilk3",
+        "Color": "cornsilk3",
+        "RGB": "rgb(205, 200, 177)",
+        "Hex": "#CDC8B1"
+    },
+    {
+        "Name": "cornsilk2",
+        "Color": "cornsilk2",
+        "RGB": "rgb(238, 232, 205)",
+        "Hex": "#EEE8CD"
+    },
+    {
+        "Name": "cornsilk",
+        "Color": "cornsilk",
+        "RGB": "rgb(255, 248, 220)",
+        "Hex": "#FFF8DC"
+    },
+    {
+        "Name": "cornsilk1",
+        "Color": "cornsilk1",
+        "RGB": "rgb(255, 248, 220)",
+        "Hex": "#FFF8DC"
+    },
+    {
+        "Name": "goldenrod",
+        "Color": "goldenrod",
+        "RGB": "rgb(218, 165, 32)",
+        "Hex": "#DAA520"
+    },
+    {
+        "Name": "goldenrod1",
+        "Color": "goldenrod1",
+        "RGB": "rgb(255, 193, 37)",
+        "Hex": "#FFC125"
+    },
+    {
+        "Name": "goldenrod2",
+        "Color": "goldenrod2",
+        "RGB": "rgb(238, 180, 34)",
+        "Hex": "#EEB422"
+    },
+    {
+        "Name": "goldenrod3",
+        "Color": "goldenrod3",
+        "RGB": "rgb(205, 155, 29)",
+        "Hex": "#CD9B1D"
+    },
+    {
+        "Name": "goldenrod4",
+        "Color": "goldenrod4",
+        "RGB": "rgb(139, 105, 20)",
+        "Hex": "#8B6914"
+    },
+    {
+        "Name": "DarkGoldenrod",
+        "Color": "DarkGoldenrod",
+        "RGB": "rgb(184, 134, 11)",
+        "Hex": "#B8860B"
+    },
+    {
+        "Name": "DarkGoldenrod1",
+        "Color": "DarkGoldenrod1",
+        "RGB": "rgb(255, 185, 15)",
+        "Hex": "#FFB90F"
+    },
+    {
+        "Name": "DarkGoldenrod2",
+        "Color": "DarkGoldenrod2",
+        "RGB": "rgb(238, 173, 14)",
+        "Hex": "#EEAD0E"
+    },
+    {
+        "Name": "DarkGoldenrod3",
+        "Color": "DarkGoldenrod3",
+        "RGB": "rgb(205, 149, 12)",
+        "Hex": "#CD950C"
+    },
+    {
+        "Name": "DarkGoldenrod4",
+        "Color": "DarkGoldenrod4",
+        "RGB": "rgb(139, 101, 8)",
+        "Hex": "#8B6508"
+    },
+    {
+        "Name": "FloralWhite",
+        "Color": "FloralWhite",
+        "RGB": "rgb(255, 250, 240)",
+        "Hex": "#FFFAF0"
+    },
+    {
+        "Name": "wheat2",
+        "Color": "wheat2",
+        "RGB": "rgb(238, 216, 174)",
+        "Hex": "#EED8AE"
+    },
+    {
+        "Name": "OldLace",
+        "Color": "OldLace",
+        "RGB": "rgb(253, 245, 230)",
+        "Hex": "#FDF5E6"
+    },
+    {
+        "Name": "wheat",
+        "Color": "wheat",
+        "RGB": "rgb(245, 222, 179)",
+        "Hex": "#F5DEB3"
+    },
+    {
+        "Name": "wheat1",
+        "Color": "wheat1",
+        "RGB": "rgb(255, 231, 186)",
+        "Hex": "#FFE7BA"
+    },
+    {
+        "Name": "wheat3",
+        "Color": "wheat3",
+        "RGB": "rgb(205, 186, 150)",
+        "Hex": "#CDBA96"
+    },
+    {
+        "Name": "orange",
+        "Color": "orange",
+        "RGB": "rgb(255, 165, 0)",
+        "Hex": "#FFA500"
+    },
+    {
+        "Name": "orange1",
+        "Color": "orange1",
+        "RGB": "rgb(255, 165, 0)",
+        "Hex": "#FFA500"
+    },
+    {
+        "Name": "orange2",
+        "Color": "orange2",
+        "RGB": "rgb(238, 154, 0)",
+        "Hex": "#EE9A00"
+    },
+    {
+        "Name": "orange3",
+        "Color": "orange3",
+        "RGB": "rgb(205, 133, 0)",
+        "Hex": "#CD8500"
+    },
+    {
+        "Name": "orange4",
+        "Color": "orange4",
+        "RGB": "rgb(139, 90, 0)",
+        "Hex": "#8B5A00"
+    },
+    {
+        "Name": "wheat4",
+        "Color": "wheat4",
+        "RGB": "rgb(139, 126, 102)",
+        "Hex": "#8B7E66"
+    },
+    {
+        "Name": "moccasin",
+        "Color": "moccasin",
+        "RGB": "rgb(255, 228, 181)",
+        "Hex": "#FFE4B5"
+    },
+    {
+        "Name": "PapayaWhip",
+        "Color": "PapayaWhip",
+        "RGB": "rgb(255, 239, 213)",
+        "Hex": "#FFEFD5"
+    },
+    {
+        "Name": "NavajoWhite3",
+        "Color": "NavajoWhite3",
+        "RGB": "rgb(205, 179, 139)",
+        "Hex": "#CDB38B"
+    },
+    {
+        "Name": "BlanchedAlmond",
+        "Color": "BlanchedAlmond",
+        "RGB": "rgb(255, 235, 205)",
+        "Hex": "#FFEBCD"
+    },
+    {
+        "Name": "NavajoWhite",
+        "Color": "NavajoWhite",
+        "RGB": "rgb(255, 222, 173)",
+        "Hex": "#FFDEAD"
+    },
+    {
+        "Name": "NavajoWhite1",
+        "Color": "NavajoWhite1",
+        "RGB": "rgb(255, 222, 173)",
+        "Hex": "#FFDEAD"
+    },
+    {
+        "Name": "NavajoWhite2",
+        "Color": "NavajoWhite2",
+        "RGB": "rgb(238, 207, 161)",
+        "Hex": "#EECFA1"
+    },
+    {
+        "Name": "NavajoWhite4",
+        "Color": "NavajoWhite4",
+        "RGB": "rgb(139, 121, 94)",
+        "Hex": "#8B795E"
+    },
+    {
+        "Name": "AntiqueWhite4",
+        "Color": "AntiqueWhite4",
+        "RGB": "rgb(139, 131, 120)",
+        "Hex": "#8B8378"
+    },
+    {
+        "Name": "AntiqueWhite",
+        "Color": "AntiqueWhite",
+        "RGB": "rgb(250, 235, 215)",
+        "Hex": "#FAEBD7"
+    },
+    {
+        "Name": "tan",
+        "Color": "tan",
+        "RGB": "rgb(210, 180, 140)",
+        "Hex": "#D2B48C"
+    },
+    {
+        "Name": "bisque4",
+        "Color": "bisque4",
+        "RGB": "rgb(139, 125, 107)",
+        "Hex": "#8B7D6B"
+    },
+    {
+        "Name": "burlywood",
+        "Color": "burlywood",
+        "RGB": "rgb(222, 184, 135)",
+        "Hex": "#DEB887"
+    },
+    {
+        "Name": "AntiqueWhite2",
+        "Color": "AntiqueWhite2",
+        "RGB": "rgb(238, 223, 204)",
+        "Hex": "#EEDFCC"
+    },
+    {
+        "Name": "burlywood1",
+        "Color": "burlywood1",
+        "RGB": "rgb(255, 211, 155)",
+        "Hex": "#FFD39B"
+    },
+    {
+        "Name": "burlywood3",
+        "Color": "burlywood3",
+        "RGB": "rgb(205, 170, 125)",
+        "Hex": "#CDAA7D"
+    },
+    {
+        "Name": "burlywood2",
+        "Color": "burlywood2",
+        "RGB": "rgb(238, 197, 145)",
+        "Hex": "#EEC591"
+    },
+    {
+        "Name": "AntiqueWhite1",
+        "Color": "AntiqueWhite1",
+        "RGB": "rgb(255, 239, 219)",
+        "Hex": "#FFEFDB"
+    },
+    {
+        "Name": "burlywood4",
+        "Color": "burlywood4",
+        "RGB": "rgb(139, 115, 85)",
+        "Hex": "#8B7355"
+    },
+    {
+        "Name": "AntiqueWhite3",
+        "Color": "AntiqueWhite3",
+        "RGB": "rgb(205, 192, 176)",
+        "Hex": "#CDC0B0"
+    },
+    {
+        "Name": "DarkOrange",
+        "Color": "DarkOrange",
+        "RGB": "rgb(255, 140, 0)",
+        "Hex": "#FF8C00"
+    },
+    {
+        "Name": "bisque2",
+        "Color": "bisque2",
+        "RGB": "rgb(238, 213, 183)",
+        "Hex": "#EED5B7"
+    },
+    {
+        "Name": "bisque",
+        "Color": "bisque",
+        "RGB": "rgb(255, 228, 196)",
+        "Hex": "#FFE4C4"
+    },
+    {
+        "Name": "bisque1",
+        "Color": "bisque1",
+        "RGB": "rgb(255, 228, 196)",
+        "Hex": "#FFE4C4"
+    },
+    {
+        "Name": "bisque3",
+        "Color": "bisque3",
+        "RGB": "rgb(205, 183, 158)",
+        "Hex": "#CDB79E"
+    },
+    {
+        "Name": "DarkOrange1",
+        "Color": "DarkOrange1",
+        "RGB": "rgb(255, 127, 0)",
+        "Hex": "#FF7F00"
+    },
+    {
+        "Name": "linen",
+        "Color": "linen",
+        "RGB": "rgb(250, 240, 230)",
+        "Hex": "#FAF0E6"
+    },
+    {
+        "Name": "DarkOrange2",
+        "Color": "DarkOrange2",
+        "RGB": "rgb(238, 118, 0)",
+        "Hex": "#EE7600"
+    },
+    {
+        "Name": "DarkOrange3",
+        "Color": "DarkOrange3",
+        "RGB": "rgb(205, 102, 0)",
+        "Hex": "#CD6600"
+    },
+    {
+        "Name": "DarkOrange4",
+        "Color": "DarkOrange4",
+        "RGB": "rgb(139, 69, 0)",
+        "Hex": "#8B4500"
+    },
+    {
+        "Name": "peru",
+        "Color": "peru",
+        "RGB": "rgb(205, 133, 63)",
+        "Hex": "#CD853F"
+    },
+    {
+        "Name": "tan1",
+        "Color": "tan1",
+        "RGB": "rgb(255, 165, 79)",
+        "Hex": "#FFA54F"
+    },
+    {
+        "Name": "tan2",
+        "Color": "tan2",
+        "RGB": "rgb(238, 154, 73)",
+        "Hex": "#EE9A49"
+    },
+    {
+        "Name": "tan3",
+        "Color": "tan3",
+        "RGB": "rgb(205, 133, 63)",
+        "Hex": "#CD853F"
+    },
+    {
+        "Name": "tan4",
+        "Color": "tan4",
+        "RGB": "rgb(139, 90, 43)",
+        "Hex": "#8B5A2B"
+    },
+    {
+        "Name": "PeachPuff",
+        "Color": "PeachPuff",
+        "RGB": "rgb(255, 218, 185)",
+        "Hex": "#FFDAB9"
+    },
+    {
+        "Name": "PeachPuff1",
+        "Color": "PeachPuff1",
+        "RGB": "rgb(255, 218, 185)",
+        "Hex": "#FFDAB9"
+    },
+    {
+        "Name": "PeachPuff4",
+        "Color": "PeachPuff4",
+        "RGB": "rgb(139, 119, 101)",
+        "Hex": "#8B7765"
+    },
+    {
+        "Name": "PeachPuff2",
+        "Color": "PeachPuff2",
+        "RGB": "rgb(238, 203, 173)",
+        "Hex": "#EECBAD"
+    },
+    {
+        "Name": "PeachPuff3",
+        "Color": "PeachPuff3",
+        "RGB": "rgb(205, 175, 149)",
+        "Hex": "#CDAF95"
+    },
+    {
+        "Name": "SandyBrown",
+        "Color": "SandyBrown",
+        "RGB": "rgb(244, 164, 96)",
+        "Hex": "#F4A460"
+    },
+    {
+        "Name": "seashell4",
+        "Color": "seashell4",
+        "RGB": "rgb(139, 134, 130)",
+        "Hex": "#8B8682"
+    },
+    {
+        "Name": "seashell2",
+        "Color": "seashell2",
+        "RGB": "rgb(238, 229, 222)",
+        "Hex": "#EEE5DE"
+    },
+    {
+        "Name": "seashell3",
+        "Color": "seashell3",
+        "RGB": "rgb(205, 197, 191)",
+        "Hex": "#CDC5BF"
+    },
+    {
+        "Name": "chocolate",
+        "Color": "chocolate",
+        "RGB": "rgb(210, 105, 30)",
+        "Hex": "#D2691E"
+    },
+    {
+        "Name": "chocolate1",
+        "Color": "chocolate1",
+        "RGB": "rgb(255, 127, 36)",
+        "Hex": "#FF7F24"
+    },
+    {
+        "Name": "chocolate2",
+        "Color": "chocolate2",
+        "RGB": "rgb(238, 118, 33)",
+        "Hex": "#EE7621"
+    },
+    {
+        "Name": "chocolate3",
+        "Color": "chocolate3",
+        "RGB": "rgb(205, 102, 29)",
+        "Hex": "#CD661D"
+    },
+    {
+        "Name": "chocolate4",
+        "Color": "chocolate4",
+        "RGB": "rgb(139, 69, 19)",
+        "Hex": "#8B4513"
+    },
+    {
+        "Name": "SaddleBrown",
+        "Color": "SaddleBrown",
+        "RGB": "rgb(139, 69, 19)",
+        "Hex": "#8B4513"
+    },
+    {
+        "Name": "seashell",
+        "Color": "seashell",
+        "RGB": "rgb(255, 245, 238)",
+        "Hex": "#FFF5EE"
+    },
+    {
+        "Name": "seashell1",
+        "Color": "seashell1",
+        "RGB": "rgb(255, 245, 238)",
+        "Hex": "#FFF5EE"
+    },
+    {
+        "Name": "sienna4",
+        "Color": "sienna4",
+        "RGB": "rgb(139, 71, 38)",
+        "Hex": "#8B4726"
+    },
+    {
+        "Name": "sienna",
+        "Color": "sienna",
+        "RGB": "rgb(160, 82, 45)",
+        "Hex": "#A0522D"
+    },
+    {
+        "Name": "sienna1",
+        "Color": "sienna1",
+        "RGB": "rgb(255, 130, 71)",
+        "Hex": "#FF8247"
+    },
+    {
+        "Name": "sienna2",
+        "Color": "sienna2",
+        "RGB": "rgb(238, 121, 66)",
+        "Hex": "#EE7942"
+    },
+    {
+        "Name": "sienna3",
+        "Color": "sienna3",
+        "RGB": "rgb(205, 104, 57)",
+        "Hex": "#CD6839"
+    },
+    {
+        "Name": "LightSalmon3",
+        "Color": "LightSalmon3",
+        "RGB": "rgb(205, 129, 98)",
+        "Hex": "#CD8162"
+    },
+    {
+        "Name": "LightSalmon",
+        "Color": "LightSalmon",
+        "RGB": "rgb(255, 160, 122)",
+        "Hex": "#FFA07A"
+    },
+    {
+        "Name": "LightSalmon1",
+        "Color": "LightSalmon1",
+        "RGB": "rgb(255, 160, 122)",
+        "Hex": "#FFA07A"
+    },
+    {
+        "Name": "LightSalmon4",
+        "Color": "LightSalmon4",
+        "RGB": "rgb(139, 87, 66)",
+        "Hex": "#8B5742"
+    },
+    {
+        "Name": "LightSalmon2",
+        "Color": "LightSalmon2",
+        "RGB": "rgb(238, 149, 114)",
+        "Hex": "#EE9572"
+    },
+    {
+        "Name": "coral",
+        "Color": "coral",
+        "RGB": "rgb(255, 127, 80)",
+        "Hex": "#FF7F50"
+    },
+    {
+        "Name": "OrangeRed",
+        "Color": "OrangeRed",
+        "RGB": "rgb(255, 69, 0)",
+        "Hex": "#FF4500"
+    },
+    {
+        "Name": "OrangeRed1",
+        "Color": "OrangeRed1",
+        "RGB": "rgb(255, 69, 0)",
+        "Hex": "#FF4500"
+    },
+    {
+        "Name": "OrangeRed2",
+        "Color": "OrangeRed2",
+        "RGB": "rgb(238, 64, 0)",
+        "Hex": "#EE4000"
+    },
+    {
+        "Name": "OrangeRed3",
+        "Color": "OrangeRed3",
+        "RGB": "rgb(205, 55, 0)",
+        "Hex": "#CD3700"
+    },
+    {
+        "Name": "OrangeRed4",
+        "Color": "OrangeRed4",
+        "RGB": "rgb(139, 37, 0)",
+        "Hex": "#8B2500"
+    },
+    {
+        "Name": "DarkSalmon",
+        "Color": "DarkSalmon",
+        "RGB": "rgb(233, 150, 122)",
+        "Hex": "#E9967A"
+    },
+    {
+        "Name": "salmon1",
+        "Color": "salmon1",
+        "RGB": "rgb(255, 140, 105)",
+        "Hex": "#FF8C69"
+    },
+    {
+        "Name": "salmon2",
+        "Color": "salmon2",
+        "RGB": "rgb(238, 130, 98)",
+        "Hex": "#EE8262"
+    },
+    {
+        "Name": "salmon3",
+        "Color": "salmon3",
+        "RGB": "rgb(205, 112, 84)",
+        "Hex": "#CD7054"
+    },
+    {
+        "Name": "salmon4",
+        "Color": "salmon4",
+        "RGB": "rgb(139, 76, 57)",
+        "Hex": "#8B4C39"
+    },
+    {
+        "Name": "coral1",
+        "Color": "coral1",
+        "RGB": "rgb(255, 114, 86)",
+        "Hex": "#FF7256"
+    },
+    {
+        "Name": "coral2",
+        "Color": "coral2",
+        "RGB": "rgb(238, 106, 80)",
+        "Hex": "#EE6A50"
+    },
+    {
+        "Name": "coral3",
+        "Color": "coral3",
+        "RGB": "rgb(205, 91, 69)",
+        "Hex": "#CD5B45"
+    },
+    {
+        "Name": "coral4",
+        "Color": "coral4",
+        "RGB": "rgb(139, 62, 47)",
+        "Hex": "#8B3E2F"
+    },
+    {
+        "Name": "tomato4",
+        "Color": "tomato4",
+        "RGB": "rgb(139, 54, 38)",
+        "Hex": "#8B3626"
+    },
+    {
+        "Name": "tomato",
+        "Color": "tomato",
+        "RGB": "rgb(255, 99, 71)",
+        "Hex": "#FF6347"
+    },
+    {
+        "Name": "tomato1",
+        "Color": "tomato1",
+        "RGB": "rgb(255, 99, 71)",
+        "Hex": "#FF6347"
+    },
+    {
+        "Name": "tomato2",
+        "Color": "tomato2",
+        "RGB": "rgb(238, 92, 66)",
+        "Hex": "#EE5C42"
+    },
+    {
+        "Name": "tomato3",
+        "Color": "tomato3",
+        "RGB": "rgb(205, 79, 57)",
+        "Hex": "#CD4F39"
+    },
+    {
+        "Name": "MistyRose4",
+        "Color": "MistyRose4",
+        "RGB": "rgb(139, 125, 123)",
+        "Hex": "#8B7D7B"
+    },
+    {
+        "Name": "MistyRose2",
+        "Color": "MistyRose2",
+        "RGB": "rgb(238, 213, 210)",
+        "Hex": "#EED5D2"
+    },
+    {
+        "Name": "MistyRose",
+        "Color": "MistyRose",
+        "RGB": "rgb(255, 228, 225)",
+        "Hex": "#FFE4E1"
+    },
+    {
+        "Name": "MistyRose1",
+        "Color": "MistyRose1",
+        "RGB": "rgb(255, 228, 225)",
+        "Hex": "#FFE4E1"
+    },
+    {
+        "Name": "salmon",
+        "Color": "salmon",
+        "RGB": "rgb(250, 128, 114)",
+        "Hex": "#FA8072"
+    },
+    {
+        "Name": "MistyRose3",
+        "Color": "MistyRose3",
+        "RGB": "rgb(205, 183, 181)",
+        "Hex": "#CDB7B5"
+    },
+    {
+        "Name": "white",
+        "Color": "white",
+        "RGB": "rgb(255, 255, 255)",
+        "Hex": "#FFFFFF"
+    },
+    {
+        "Name": "gray100",
+        "Color": "gray100",
+        "RGB": "rgb(255, 255, 255)",
+        "Hex": "#FFFFFF"
+    },
+    {
+        "Name": "grey100",
+        "Color": "grey100",
+        "RGB": "rgb(255, 255, 255)",
+        "Hex": "#FFFFFF"
+    },
+    {
+        "Name": "grey100",
+        "Color": "grey100",
+        "RGB": "rgb(255, 255, 255)",
+        "Hex": "#FFFFFF"
+    },
+    {
+        "Name": "gray99",
+        "Color": "gray99",
+        "RGB": "rgb(252, 252, 252)",
+        "Hex": "#FCFCFC"
+    },
+    {
+        "Name": "grey99",
+        "Color": "grey99",
+        "RGB": "rgb(252, 252, 252)",
+        "Hex": "#FCFCFC"
+    },
+    {
+        "Name": "gray98",
+        "Color": "gray98",
+        "RGB": "rgb(250, 250, 250)",
+        "Hex": "#FAFAFA"
+    },
+    {
+        "Name": "grey98",
+        "Color": "grey98",
+        "RGB": "rgb(250, 250, 250)",
+        "Hex": "#FAFAFA"
+    },
+    {
+        "Name": "gray97",
+        "Color": "gray97",
+        "RGB": "rgb(247, 247, 247)",
+        "Hex": "#F7F7F7"
+    },
+    {
+        "Name": "grey97",
+        "Color": "grey97",
+        "RGB": "rgb(247, 247, 247)",
+        "Hex": "#F7F7F7"
+    },
+    {
+        "Name": "gray96",
+        "Color": "gray96",
+        "RGB": "rgb(245, 245, 245)",
+        "Hex": "#F5F5F5"
+    },
+    {
+        "Name": "grey96",
+        "Color": "grey96",
+        "RGB": "rgb(245, 245, 245)",
+        "Hex": "#F5F5F5"
+    },
+    {
+        "Name": "WhiteSmoke",
+        "Color": "WhiteSmoke",
+        "RGB": "rgb(245, 245, 245)",
+        "Hex": "#F5F5F5"
+    },
+    {
+        "Name": "gray95",
+        "Color": "gray95",
+        "RGB": "rgb(242, 242, 242)",
+        "Hex": "#F2F2F2"
+    },
+    {
+        "Name": "grey95",
+        "Color": "grey95",
+        "RGB": "rgb(242, 242, 242)",
+        "Hex": "#F2F2F2"
+    },
+    {
+        "Name": "gray94",
+        "Color": "gray94",
+        "RGB": "rgb(240, 240, 240)",
+        "Hex": "#F0F0F0"
+    },
+    {
+        "Name": "grey94",
+        "Color": "grey94",
+        "RGB": "rgb(240, 240, 240)",
+        "Hex": "#F0F0F0"
+    },
+    {
+        "Name": "gray93",
+        "Color": "gray93",
+        "RGB": "rgb(237, 237, 237)",
+        "Hex": "#EDEDED"
+    },
+    {
+        "Name": "grey93",
+        "Color": "grey93",
+        "RGB": "rgb(237, 237, 237)",
+        "Hex": "#EDEDED"
+    },
+    {
+        "Name": "gray92",
+        "Color": "gray92",
+        "RGB": "rgb(235, 235, 235)",
+        "Hex": "#EBEBEB"
+    },
+    {
+        "Name": "grey92",
+        "Color": "grey92",
+        "RGB": "rgb(235, 235, 235)",
+        "Hex": "#EBEBEB"
+    },
+    {
+        "Name": "gray91",
+        "Color": "gray91",
+        "RGB": "rgb(232, 232, 232)",
+        "Hex": "#E8E8E8"
+    },
+    {
+        "Name": "grey91",
+        "Color": "grey91",
+        "RGB": "rgb(232, 232, 232)",
+        "Hex": "#E8E8E8"
+    },
+    {
+        "Name": "gray90",
+        "Color": "gray90",
+        "RGB": "rgb(229, 229, 229)",
+        "Hex": "#E5E5E5"
+    },
+    {
+        "Name": "grey90",
+        "Color": "grey90",
+        "RGB": "rgb(229, 229, 229)",
+        "Hex": "#E5E5E5"
+    },
+    {
+        "Name": "gray89",
+        "Color": "gray89",
+        "RGB": "rgb(227, 227, 227)",
+        "Hex": "#E3E3E3"
+    },
+    {
+        "Name": "grey89",
+        "Color": "grey89",
+        "RGB": "rgb(227, 227, 227)",
+        "Hex": "#E3E3E3"
+    },
+    {
+        "Name": "gray88",
+        "Color": "gray88",
+        "RGB": "rgb(224, 224, 224)",
+        "Hex": "#E0E0E0"
+    },
+    {
+        "Name": "grey88",
+        "Color": "grey88",
+        "RGB": "rgb(224, 224, 224)",
+        "Hex": "#E0E0E0"
+    },
+    {
+        "Name": "gray87",
+        "Color": "gray87",
+        "RGB": "rgb(222, 222, 222)",
+        "Hex": "#DEDEDE"
+    },
+    {
+        "Name": "grey87",
+        "Color": "grey87",
+        "RGB": "rgb(222, 222, 222)",
+        "Hex": "#DEDEDE"
+    },
+    {
+        "Name": "gainsboro",
+        "Color": "gainsboro",
+        "RGB": "rgb(220, 220, 220)",
+        "Hex": "#DCDCDC"
+    },
+    {
+        "Name": "gray86",
+        "Color": "gray86",
+        "RGB": "rgb(219, 219, 219)",
+        "Hex": "#DBDBDB"
+    },
+    {
+        "Name": "grey86",
+        "Color": "grey86",
+        "RGB": "rgb(219, 219, 219)",
+        "Hex": "#DBDBDB"
+    },
+    {
+        "Name": "gray85",
+        "Color": "gray85",
+        "RGB": "rgb(217, 217, 217)",
+        "Hex": "#D9D9D9"
+    },
+    {
+        "Name": "grey85",
+        "Color": "grey85",
+        "RGB": "rgb(217, 217, 217)",
+        "Hex": "#D9D9D9"
+    },
+    {
+        "Name": "gray84",
+        "Color": "gray84",
+        "RGB": "rgb(214, 214, 214)",
+        "Hex": "#D6D6D6"
+    },
+    {
+        "Name": "grey84",
+        "Color": "grey84",
+        "RGB": "rgb(214, 214, 214)",
+        "Hex": "#D6D6D6"
+    },
+    {
+        "Name": "gray83",
+        "Color": "gray83",
+        "RGB": "rgb(212, 212, 212)",
+        "Hex": "#D4D4D4"
+    },
+    {
+        "Name": "grey83",
+        "Color": "grey83",
+        "RGB": "rgb(212, 212, 212)",
+        "Hex": "#D4D4D4"
+    },
+    {
+        "Name": "LightGray",
+        "Color": "LightGray",
+        "RGB": "rgb(211, 211, 211)",
+        "Hex": "#D3D3D3"
+    },
+    {
+        "Name": "LightGrey",
+        "Color": "LightGrey",
+        "RGB": "rgb(211, 211, 211)",
+        "Hex": "#D3D3D3"
+    },
+    {
+        "Name": "gray82",
+        "Color": "gray82",
+        "RGB": "rgb(209, 209, 209)",
+        "Hex": "#D1D1D1"
+    },
+    {
+        "Name": "grey82",
+        "Color": "grey82",
+        "RGB": "rgb(209, 209, 209)",
+        "Hex": "#D1D1D1"
+    },
+    {
+        "Name": "gray81",
+        "Color": "gray81",
+        "RGB": "rgb(207, 207, 207)",
+        "Hex": "#CFCFCF"
+    },
+    {
+        "Name": "grey81",
+        "Color": "grey81",
+        "RGB": "rgb(207, 207, 207)",
+        "Hex": "#CFCFCF"
+    },
+    {
+        "Name": "gray80",
+        "Color": "gray80",
+        "RGB": "rgb(204, 204, 204)",
+        "Hex": "#CCCCCC"
+    },
+    {
+        "Name": "grey80",
+        "Color": "grey80",
+        "RGB": "rgb(204, 204, 204)",
+        "Hex": "#CCCCCC"
+    },
+    {
+        "Name": "gray79",
+        "Color": "gray79",
+        "RGB": "rgb(201, 201, 201)",
+        "Hex": "#C9C9C9"
+    },
+    {
+        "Name": "grey79",
+        "Color": "grey79",
+        "RGB": "rgb(201, 201, 201)",
+        "Hex": "#C9C9C9"
+    },
+    {
+        "Name": "gray78",
+        "Color": "gray78",
+        "RGB": "rgb(199, 199, 199)",
+        "Hex": "#C7C7C7"
+    },
+    {
+        "Name": "grey78",
+        "Color": "grey78",
+        "RGB": "rgb(199, 199, 199)",
+        "Hex": "#C7C7C7"
+    },
+    {
+        "Name": "gray77",
+        "Color": "gray77",
+        "RGB": "rgb(196, 196, 196)",
+        "Hex": "#C4C4C4"
+    },
+    {
+        "Name": "grey77",
+        "Color": "grey77",
+        "RGB": "rgb(196, 196, 196)",
+        "Hex": "#C4C4C4"
+    },
+    {
+        "Name": "gray76",
+        "Color": "gray76",
+        "RGB": "rgb(194, 194, 194)",
+        "Hex": "#C2C2C2"
+    },
+    {
+        "Name": "grey76",
+        "Color": "grey76",
+        "RGB": "rgb(194, 194, 194)",
+        "Hex": "#C2C2C2"
+    },
+    {
+        "Name": "silver",
+        "Color": "silver",
+        "RGB": "rgb(192, 192, 192)",
+        "Hex": "#C0C0C0"
+    },
+    {
+        "Name": "gray75",
+        "Color": "gray75",
+        "RGB": "rgb(191, 191, 191)",
+        "Hex": "#BFBFBF"
+    },
+    {
+        "Name": "grey75",
+        "Color": "grey75",
+        "RGB": "rgb(191, 191, 191)",
+        "Hex": "#BFBFBF"
+    },
+    {
+        "Name": "gray74",
+        "Color": "gray74",
+        "RGB": "rgb(189, 189, 189)",
+        "Hex": "#BDBDBD"
+    },
+    {
+        "Name": "grey74",
+        "Color": "grey74",
+        "RGB": "rgb(189, 189, 189)",
+        "Hex": "#BDBDBD"
+    },
+    {
+        "Name": "gray73",
+        "Color": "gray73",
+        "RGB": "rgb(186, 186, 186)",
+        "Hex": "#BABABA"
+    },
+    {
+        "Name": "grey73",
+        "Color": "grey73",
+        "RGB": "rgb(186, 186, 186)",
+        "Hex": "#BABABA"
+    },
+    {
+        "Name": "gray72",
+        "Color": "gray72",
+        "RGB": "rgb(184, 184, 184)",
+        "Hex": "#B8B8B8"
+    },
+    {
+        "Name": "grey72",
+        "Color": "grey72",
+        "RGB": "rgb(184, 184, 184)",
+        "Hex": "#B8B8B8"
+    },
+    {
+        "Name": "gray71",
+        "Color": "gray71",
+        "RGB": "rgb(181, 181, 181)",
+        "Hex": "#B5B5B5"
+    },
+    {
+        "Name": "grey71",
+        "Color": "grey71",
+        "RGB": "rgb(181, 181, 181)",
+        "Hex": "#B5B5B5"
+    },
+    {
+        "Name": "gray70",
+        "Color": "gray70",
+        "RGB": "rgb(179, 179, 179)",
+        "Hex": "#B3B3B3"
+    },
+    {
+        "Name": "grey70",
+        "Color": "grey70",
+        "RGB": "rgb(179, 179, 179)",
+        "Hex": "#B3B3B3"
+    },
+    {
+        "Name": "gray69",
+        "Color": "gray69",
+        "RGB": "rgb(176, 176, 176)",
+        "Hex": "#B0B0B0"
+    },
+    {
+        "Name": "grey69",
+        "Color": "grey69",
+        "RGB": "rgb(176, 176, 176)",
+        "Hex": "#B0B0B0"
+    },
+    {
+        "Name": "gray68",
+        "Color": "gray68",
+        "RGB": "rgb(173, 173, 173)",
+        "Hex": "#ADADAD"
+    },
+    {
+        "Name": "grey68",
+        "Color": "grey68",
+        "RGB": "rgb(173, 173, 173)",
+        "Hex": "#ADADAD"
+    },
+    {
+        "Name": "gray67",
+        "Color": "gray67",
+        "RGB": "rgb(171, 171, 171)",
+        "Hex": "#ABABAB"
+    },
+    {
+        "Name": "grey67",
+        "Color": "grey67",
+        "RGB": "rgb(171, 171, 171)",
+        "Hex": "#ABABAB"
+    },
+    {
+        "Name": "DarkGray",
+        "Color": "DarkGray",
+        "RGB": "rgb(169, 169, 169)",
+        "Hex": "#A9A9A9"
+    },
+    {
+        "Name": "DarkGrey",
+        "Color": "DarkGrey",
+        "RGB": "rgb(169, 169, 169)",
+        "Hex": "#A9A9A9"
+    },
+    {
+        "Name": "gray66",
+        "Color": "gray66",
+        "RGB": "rgb(168, 168, 168)",
+        "Hex": "#A8A8A8"
+    },
+    {
+        "Name": "grey66",
+        "Color": "grey66",
+        "RGB": "rgb(168, 168, 168)",
+        "Hex": "#A8A8A8"
+    },
+    {
+        "Name": "gray65",
+        "Color": "gray65",
+        "RGB": "rgb(166, 166, 166)",
+        "Hex": "#A6A6A6"
+    },
+    {
+        "Name": "grey65",
+        "Color": "grey65",
+        "RGB": "rgb(166, 166, 166)",
+        "Hex": "#A6A6A6"
+    },
+    {
+        "Name": "gray64",
+        "Color": "gray64",
+        "RGB": "rgb(163, 163, 163)",
+        "Hex": "#A3A3A3"
+    },
+    {
+        "Name": "grey64",
+        "Color": "grey64",
+        "RGB": "rgb(163, 163, 163)",
+        "Hex": "#A3A3A3"
+    },
+    {
+        "Name": "gray63",
+        "Color": "gray63",
+        "RGB": "rgb(161, 161, 161)",
+        "Hex": "#A1A1A1"
+    },
+    {
+        "Name": "grey63",
+        "Color": "grey63",
+        "RGB": "rgb(161, 161, 161)",
+        "Hex": "#A1A1A1"
+    },
+    {
+        "Name": "gray62",
+        "Color": "gray62",
+        "RGB": "rgb(158, 158, 158)",
+        "Hex": "#9E9E9E"
+    },
+    {
+        "Name": "grey62",
+        "Color": "grey62",
+        "RGB": "rgb(158, 158, 158)",
+        "Hex": "#9E9E9E"
+    },
+    {
+        "Name": "gray61",
+        "Color": "gray61",
+        "RGB": "rgb(156, 156, 156)",
+        "Hex": "#9C9C9C"
+    },
+    {
+        "Name": "grey61",
+        "Color": "grey61",
+        "RGB": "rgb(156, 156, 156)",
+        "Hex": "#9C9C9C"
+    },
+    {
+        "Name": "gray60",
+        "Color": "gray60",
+        "RGB": "rgb(153, 153, 153)",
+        "Hex": "#999999"
+    },
+    {
+        "Name": "grey60",
+        "Color": "grey60",
+        "RGB": "rgb(153, 153, 153)",
+        "Hex": "#999999"
+    },
+    {
+        "Name": "gray59",
+        "Color": "gray59",
+        "RGB": "rgb(150, 150, 150)",
+        "Hex": "#969696"
+    },
+    {
+        "Name": "grey59",
+        "Color": "grey59",
+        "RGB": "rgb(150, 150, 150)",
+        "Hex": "#969696"
+    },
+    {
+        "Name": "gray58",
+        "Color": "gray58",
+        "RGB": "rgb(148, 148, 148)",
+        "Hex": "#949494"
+    },
+    {
+        "Name": "grey58",
+        "Color": "grey58",
+        "RGB": "rgb(148, 148, 148)",
+        "Hex": "#949494"
+    },
+    {
+        "Name": "gray57",
+        "Color": "gray57",
+        "RGB": "rgb(145, 145, 145)",
+        "Hex": "#919191"
+    },
+    {
+        "Name": "grey57",
+        "Color": "grey57",
+        "RGB": "rgb(145, 145, 145)",
+        "Hex": "#919191"
+    },
+    {
+        "Name": "gray56",
+        "Color": "gray56",
+        "RGB": "rgb(143, 143, 143)",
+        "Hex": "#8F8F8F"
+    },
+    {
+        "Name": "grey56",
+        "Color": "grey56",
+        "RGB": "rgb(143, 143, 143)",
+        "Hex": "#8F8F8F"
+    },
+    {
+        "Name": "gray55",
+        "Color": "gray55",
+        "RGB": "rgb(140, 140, 140)",
+        "Hex": "#8C8C8C"
+    },
+    {
+        "Name": "grey55",
+        "Color": "grey55",
+        "RGB": "rgb(140, 140, 140)",
+        "Hex": "#8C8C8C"
+    },
+    {
+        "Name": "gray54",
+        "Color": "gray54",
+        "RGB": "rgb(138, 138, 138)",
+        "Hex": "#8A8A8A"
+    },
+    {
+        "Name": "grey54",
+        "Color": "grey54",
+        "RGB": "rgb(138, 138, 138)",
+        "Hex": "#8A8A8A"
+    },
+    {
+        "Name": "gray53",
+        "Color": "gray53",
+        "RGB": "rgb(135, 135, 135)",
+        "Hex": "#878787"
+    },
+    {
+        "Name": "grey53",
+        "Color": "grey53",
+        "RGB": "rgb(135, 135, 135)",
+        "Hex": "#878787"
+    },
+    {
+        "Name": "gray52",
+        "Color": "gray52",
+        "RGB": "rgb(133, 133, 133)",
+        "Hex": "#858585"
+    },
+    {
+        "Name": "grey52",
+        "Color": "grey52",
+        "RGB": "rgb(133, 133, 133)",
+        "Hex": "#858585"
+    },
+    {
+        "Name": "gray51",
+        "Color": "gray51",
+        "RGB": "rgb(130, 130, 130)",
+        "Hex": "#828282"
+    },
+    {
+        "Name": "grey51",
+        "Color": "grey51",
+        "RGB": "rgb(130, 130, 130)",
+        "Hex": "#828282"
+    },
+    {
+        "Name": "fractal",
+        "Color": "fractal",
+        "RGB": "rgb(128, 128, 128)",
+        "Hex": "#808080"
+    },
+    {
+        "Name": "gray50",
+        "Color": "gray50",
+        "RGB": "rgb(127, 127, 127)",
+        "Hex": "#7F7F7F"
+    },
+    {
+        "Name": "grey50",
+        "Color": "grey50",
+        "RGB": "rgb(127, 127, 127)",
+        "Hex": "#7F7F7F"
+    },
+    {
+        "Name": "gray",
+        "Color": "gray",
+        "RGB": "rgb(126, 126, 126)",
+        "Hex": "#7E7E7E"
+    },
+    {
+        "Name": "gray49",
+        "Color": "gray49",
+        "RGB": "rgb(125, 125, 125)",
+        "Hex": "#7D7D7D"
+    },
+    {
+        "Name": "grey49",
+        "Color": "grey49",
+        "RGB": "rgb(125, 125, 125)",
+        "Hex": "#7D7D7D"
+    },
+    {
+        "Name": "gray48",
+        "Color": "gray48",
+        "RGB": "rgb(122, 122, 122)",
+        "Hex": "#7A7A7A"
+    },
+    {
+        "Name": "grey48",
+        "Color": "grey48",
+        "RGB": "rgb(122, 122, 122)",
+        "Hex": "#7A7A7A"
+    },
+    {
+        "Name": "gray47",
+        "Color": "gray47",
+        "RGB": "rgb(120, 120, 120)",
+        "Hex": "#787878"
+    },
+    {
+        "Name": "grey47",
+        "Color": "grey47",
+        "RGB": "rgb(120, 120, 120)",
+        "Hex": "#787878"
+    },
+    {
+        "Name": "gray46",
+        "Color": "gray46",
+        "RGB": "rgb(117, 117, 117)",
+        "Hex": "#757575"
+    },
+    {
+        "Name": "grey46",
+        "Color": "grey46",
+        "RGB": "rgb(117, 117, 117)",
+        "Hex": "#757575"
+    },
+    {
+        "Name": "gray45",
+        "Color": "gray45",
+        "RGB": "rgb(115, 115, 115)",
+        "Hex": "#737373"
+    },
+    {
+        "Name": "grey45",
+        "Color": "grey45",
+        "RGB": "rgb(115, 115, 115)",
+        "Hex": "#737373"
+    },
+    {
+        "Name": "gray44",
+        "Color": "gray44",
+        "RGB": "rgb(112, 112, 112)",
+        "Hex": "#707070"
+    },
+    {
+        "Name": "grey44",
+        "Color": "grey44",
+        "RGB": "rgb(112, 112, 112)",
+        "Hex": "#707070"
+    },
+    {
+        "Name": "gray43",
+        "Color": "gray43",
+        "RGB": "rgb(110, 110, 110)",
+        "Hex": "#6E6E6E"
+    },
+    {
+        "Name": "grey43",
+        "Color": "grey43",
+        "RGB": "rgb(110, 110, 110)",
+        "Hex": "#6E6E6E"
+    },
+    {
+        "Name": "gray42",
+        "Color": "gray42",
+        "RGB": "rgb(107, 107, 107)",
+        "Hex": "#6B6B6B"
+    },
+    {
+        "Name": "grey42",
+        "Color": "grey42",
+        "RGB": "rgb(107, 107, 107)",
+        "Hex": "#6B6B6B"
+    },
+    {
+        "Name": "DimGray",
+        "Color": "DimGray",
+        "RGB": "rgb(105, 105, 105)",
+        "Hex": "#696969"
+    },
+    {
+        "Name": "DimGrey",
+        "Color": "DimGrey",
+        "RGB": "rgb(105, 105, 105)",
+        "Hex": "#696969"
+    },
+    {
+        "Name": "gray41",
+        "Color": "gray41",
+        "RGB": "rgb(105, 105, 105)",
+        "Hex": "#696969"
+    },
+    {
+        "Name": "grey41",
+        "Color": "grey41",
+        "RGB": "rgb(105, 105, 105)",
+        "Hex": "#696969"
+    },
+    {
+        "Name": "gray40",
+        "Color": "gray40",
+        "RGB": "rgb(102, 102, 102)",
+        "Hex": "#666666"
+    },
+    {
+        "Name": "grey40",
+        "Color": "grey40",
+        "RGB": "rgb(102, 102, 102)",
+        "Hex": "#666666"
+    },
+    {
+        "Name": "gray39",
+        "Color": "gray39",
+        "RGB": "rgb( 99, 99, 99)",
+        "Hex": "#636363"
+    },
+    {
+        "Name": "grey39",
+        "Color": "grey39",
+        "RGB": "rgb( 99, 99, 99)",
+        "Hex": "#636363"
+    },
+    {
+        "Name": "gray38",
+        "Color": "gray38",
+        "RGB": "rgb( 97, 97, 97)",
+        "Hex": "#616161"
+    },
+    {
+        "Name": "grey38",
+        "Color": "grey38",
+        "RGB": "rgb( 97, 97, 97)",
+        "Hex": "#616161"
+    },
+    {
+        "Name": "gray37",
+        "Color": "gray37",
+        "RGB": "rgb( 94, 94, 94)",
+        "Hex": "#5E5E5E"
+    },
+    {
+        "Name": "grey37",
+        "Color": "grey37",
+        "RGB": "rgb( 94, 94, 94)",
+        "Hex": "#5E5E5E"
+    },
+    {
+        "Name": "gray36",
+        "Color": "gray36",
+        "RGB": "rgb( 92, 92, 92)",
+        "Hex": "#5C5C5C"
+    },
+    {
+        "Name": "grey36",
+        "Color": "grey36",
+        "RGB": "rgb( 92, 92, 92)",
+        "Hex": "#5C5C5C"
+    },
+    {
+        "Name": "gray35",
+        "Color": "gray35",
+        "RGB": "rgb( 89, 89, 89)",
+        "Hex": "#595959"
+    },
+    {
+        "Name": "grey35",
+        "Color": "grey35",
+        "RGB": "rgb( 89, 89, 89)",
+        "Hex": "#595959"
+    },
+    {
+        "Name": "gray34",
+        "Color": "gray34",
+        "RGB": "rgb( 87, 87, 87)",
+        "Hex": "#575757"
+    },
+    {
+        "Name": "grey34",
+        "Color": "grey34",
+        "RGB": "rgb( 87, 87, 87)",
+        "Hex": "#575757"
+    },
+    {
+        "Name": "gray33",
+        "Color": "gray33",
+        "RGB": "rgb( 84, 84, 84)",
+        "Hex": "#545454"
+    },
+    {
+        "Name": "grey33",
+        "Color": "grey33",
+        "RGB": "rgb( 84, 84, 84)",
+        "Hex": "#545454"
+    },
+    {
+        "Name": "gray32",
+        "Color": "gray32",
+        "RGB": "rgb( 82, 82, 82)",
+        "Hex": "#525252"
+    },
+    {
+        "Name": "grey32",
+        "Color": "grey32",
+        "RGB": "rgb( 82, 82, 82)",
+        "Hex": "#525252"
+    },
+    {
+        "Name": "gray31",
+        "Color": "gray31",
+        "RGB": "rgb( 79, 79, 79)",
+        "Hex": "#4F4F4F"
+    },
+    {
+        "Name": "grey31",
+        "Color": "grey31",
+        "RGB": "rgb( 79, 79, 79)",
+        "Hex": "#4F4F4F"
+    },
+    {
+        "Name": "gray30",
+        "Color": "gray30",
+        "RGB": "rgb( 77, 77, 77)",
+        "Hex": "#4D4D4D"
+    },
+    {
+        "Name": "grey30",
+        "Color": "grey30",
+        "RGB": "rgb( 77, 77, 77)",
+        "Hex": "#4D4D4D"
+    },
+    {
+        "Name": "gray29",
+        "Color": "gray29",
+        "RGB": "rgb( 74, 74, 74)",
+        "Hex": "#4A4A4A"
+    },
+    {
+        "Name": "grey29",
+        "Color": "grey29",
+        "RGB": "rgb( 74, 74, 74)",
+        "Hex": "#4A4A4A"
+    },
+    {
+        "Name": "gray28",
+        "Color": "gray28",
+        "RGB": "rgb( 71, 71, 71)",
+        "Hex": "#474747"
+    },
+    {
+        "Name": "grey28",
+        "Color": "grey28",
+        "RGB": "rgb( 71, 71, 71)",
+        "Hex": "#474747"
+    },
+    {
+        "Name": "gray27",
+        "Color": "gray27",
+        "RGB": "rgb( 69, 69, 69)",
+        "Hex": "#454545"
+    },
+    {
+        "Name": "grey27",
+        "Color": "grey27",
+        "RGB": "rgb( 69, 69, 69)",
+        "Hex": "#454545"
+    },
+    {
+        "Name": "gray26",
+        "Color": "gray26",
+        "RGB": "rgb( 66, 66, 66)",
+        "Hex": "#424242"
+    },
+    {
+        "Name": "grey26",
+        "Color": "grey26",
+        "RGB": "rgb( 66, 66, 66)",
+        "Hex": "#424242"
+    },
+    {
+        "Name": "gray25",
+        "Color": "gray25",
+        "RGB": "rgb( 64, 64, 64)",
+        "Hex": "#404040"
+    },
+    {
+        "Name": "grey25",
+        "Color": "grey25",
+        "RGB": "rgb( 64, 64, 64)",
+        "Hex": "#404040"
+    },
+    {
+        "Name": "gray24",
+        "Color": "gray24",
+        "RGB": "rgb( 61, 61, 61)",
+        "Hex": "#3D3D3D"
+    },
+    {
+        "Name": "grey24",
+        "Color": "grey24",
+        "RGB": "rgb( 61, 61, 61)",
+        "Hex": "#3D3D3D"
+    },
+    {
+        "Name": "gray23",
+        "Color": "gray23",
+        "RGB": "rgb( 59, 59, 59)",
+        "Hex": "#3B3B3B"
+    },
+    {
+        "Name": "grey23",
+        "Color": "grey23",
+        "RGB": "rgb( 59, 59, 59)",
+        "Hex": "#3B3B3B"
+    },
+    {
+        "Name": "gray22",
+        "Color": "gray22",
+        "RGB": "rgb( 56, 56, 56)",
+        "Hex": "#383838"
+    },
+    {
+        "Name": "grey22",
+        "Color": "grey22",
+        "RGB": "rgb( 56, 56, 56)",
+        "Hex": "#383838"
+    },
+    {
+        "Name": "gray21",
+        "Color": "gray21",
+        "RGB": "rgb( 54, 54, 54)",
+        "Hex": "#363636"
+    },
+    {
+        "Name": "grey21",
+        "Color": "grey21",
+        "RGB": "rgb( 54, 54, 54)",
+        "Hex": "#363636"
+    },
+    {
+        "Name": "gray20",
+        "Color": "gray20",
+        "RGB": "rgb( 51, 51, 51)",
+        "Hex": "#333333"
+    },
+    {
+        "Name": "grey20",
+        "Color": "grey20",
+        "RGB": "rgb( 51, 51, 51)",
+        "Hex": "#333333"
+    },
+    {
+        "Name": "gray19",
+        "Color": "gray19",
+        "RGB": "rgb( 48, 48, 48)",
+        "Hex": "#303030"
+    },
+    {
+        "Name": "grey19",
+        "Color": "grey19",
+        "RGB": "rgb( 48, 48, 48)",
+        "Hex": "#303030"
+    },
+    {
+        "Name": "gray18",
+        "Color": "gray18",
+        "RGB": "rgb( 46, 46, 46)",
+        "Hex": "#2E2E2E"
+    },
+    {
+        "Name": "grey18",
+        "Color": "grey18",
+        "RGB": "rgb( 46, 46, 46)",
+        "Hex": "#2E2E2E"
+    },
+    {
+        "Name": "gray17",
+        "Color": "gray17",
+        "RGB": "rgb( 43, 43, 43)",
+        "Hex": "#2B2B2B"
+    },
+    {
+        "Name": "grey17",
+        "Color": "grey17",
+        "RGB": "rgb( 43, 43, 43)",
+        "Hex": "#2B2B2B"
+    },
+    {
+        "Name": "gray16",
+        "Color": "gray16",
+        "RGB": "rgb( 41, 41, 41)",
+        "Hex": "#292929"
+    },
+    {
+        "Name": "grey16",
+        "Color": "grey16",
+        "RGB": "rgb( 41, 41, 41)",
+        "Hex": "#292929"
+    },
+    {
+        "Name": "gray15",
+        "Color": "gray15",
+        "RGB": "rgb( 38, 38, 38)",
+        "Hex": "#262626"
+    },
+    {
+        "Name": "grey15",
+        "Color": "grey15",
+        "RGB": "rgb( 38, 38, 38)",
+        "Hex": "#262626"
+    },
+    {
+        "Name": "gray14",
+        "Color": "gray14",
+        "RGB": "rgb( 36, 36, 36)",
+        "Hex": "#242424"
+    },
+    {
+        "Name": "grey14",
+        "Color": "grey14",
+        "RGB": "rgb( 36, 36, 36)",
+        "Hex": "#242424"
+    },
+    {
+        "Name": "gray13",
+        "Color": "gray13",
+        "RGB": "rgb( 33, 33, 33)",
+        "Hex": "#212121"
+    },
+    {
+        "Name": "grey13",
+        "Color": "grey13",
+        "RGB": "rgb( 33, 33, 33)",
+        "Hex": "#212121"
+    },
+    {
+        "Name": "gray12",
+        "Color": "gray12",
+        "RGB": "rgb( 31, 31, 31)",
+        "Hex": "#1F1F1F"
+    },
+    {
+        "Name": "grey12",
+        "Color": "grey12",
+        "RGB": "rgb( 31, 31, 31)",
+        "Hex": "#1F1F1F"
+    },
+    {
+        "Name": "gray11",
+        "Color": "gray11",
+        "RGB": "rgb( 28, 28, 28)",
+        "Hex": "#1C1C1C"
+    },
+    {
+        "Name": "grey11",
+        "Color": "grey11",
+        "RGB": "rgb( 28, 28, 28)",
+        "Hex": "#1C1C1C"
+    },
+    {
+        "Name": "gray10",
+        "Color": "gray10",
+        "RGB": "rgb( 26, 26, 26)",
+        "Hex": "#1A1A1A"
+    },
+    {
+        "Name": "grey10",
+        "Color": "grey10",
+        "RGB": "rgb( 26, 26, 26)",
+        "Hex": "#1A1A1A"
+    },
+    {
+        "Name": "gray9",
+        "Color": "gray9",
+        "RGB": "rgb( 23, 23, 23)",
+        "Hex": "#171717"
+    },
+    {
+        "Name": "grey9",
+        "Color": "grey9",
+        "RGB": "rgb( 23, 23, 23)",
+        "Hex": "#171717"
+    },
+    {
+        "Name": "gray8",
+        "Color": "gray8",
+        "RGB": "rgb( 20, 20, 20)",
+        "Hex": "#141414"
+    },
+    {
+        "Name": "grey8",
+        "Color": "grey8",
+        "RGB": "rgb( 20, 20, 20)",
+        "Hex": "#141414"
+    },
+    {
+        "Name": "gray7",
+        "Color": "gray7",
+        "RGB": "rgb( 18, 18, 18)",
+        "Hex": "#121212"
+    },
+    {
+        "Name": "grey7",
+        "Color": "grey7",
+        "RGB": "rgb( 18, 18, 18)",
+        "Hex": "#121212"
+    },
+    {
+        "Name": "gray6",
+        "Color": "gray6",
+        "RGB": "rgb( 15, 15, 15)",
+        "Hex": "#0F0F0F"
+    },
+    {
+        "Name": "grey6",
+        "Color": "grey6",
+        "RGB": "rgb( 15, 15, 15)",
+        "Hex": "#0F0F0F"
+    },
+    {
+        "Name": "gray5",
+        "Color": "gray5",
+        "RGB": "rgb( 13, 13, 13)",
+        "Hex": "#0D0D0D"
+    },
+    {
+        "Name": "grey5",
+        "Color": "grey5",
+        "RGB": "rgb( 13, 13, 13)",
+        "Hex": "#0D0D0D"
+    },
+    {
+        "Name": "gray4",
+        "Color": "gray4",
+        "RGB": "rgb( 10, 10, 10)",
+        "Hex": "#0A0A0A"
+    },
+    {
+        "Name": "grey4",
+        "Color": "grey4",
+        "RGB": "rgb( 10, 10, 10)",
+        "Hex": "#0A0A0A"
+    },
+    {
+        "Name": "gray3",
+        "Color": "gray3",
+        "RGB": "rgb(8, 8, 8)",
+        "Hex": "#080808"
+    },
+    {
+        "Name": "grey3",
+        "Color": "grey3",
+        "RGB": "rgb(8, 8, 8)",
+        "Hex": "#080808"
+    },
+    {
+        "Name": "gray2",
+        "Color": "gray2",
+        "RGB": "rgb(5, 5, 5)",
+        "Hex": "#050505"
+    },
+    {
+        "Name": "grey2",
+        "Color": "grey2",
+        "RGB": "rgb(5, 5, 5)",
+        "Hex": "#050505"
+    },
+    {
+        "Name": "gray1",
+        "Color": "gray1",
+        "RGB": "rgb(3, 3, 3)",
+        "Hex": "#030303"
+    },
+    {
+        "Name": "grey1",
+        "Color": "grey1",
+        "RGB": "rgb(3, 3, 3)",
+        "Hex": "#030303"
+    },
+    {
+        "Name": "black",
+        "Color": "black",
+        "RGB": "rgb(0, 0, 0)",
+        "Hex": "#000000"
+    },
+    {
+        "Name": "gray0",
+        "Color": "gray0",
+        "RGB": "rgb(0, 0, 0)",
+        "Hex": "#000000"
+    },
+    {
+        "Name": "grey0",
+        "Color": "grey0",
+        "RGB": "rgb(0, 0, 0)",
+        "Hex": "#000000"
+    },
+    {
+        "Name": "opaque",
+        "Color": "opaque",
+        "RGB": "rgb(0, 0, 0)",
+        "Hex": "#000000"
+    },
+    {
+        "Name": "none",
+        "Color": "none",
+        "RGB": "rgba(0, 0, 0, 0.0)",
+        "Hex": "#00000000"
+    },
+    {
+        "Name": "transparent",
+        "Color": "transparent",
+        "RGB": "rgba(0, 0, 0, 0.0)",
+        "Hex": "#00000000"
+    }
+]

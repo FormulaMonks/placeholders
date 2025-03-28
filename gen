@@ -1,0 +1,29 @@
+#!/usr/bin/env bash
+
+COLOR=$1
+RES=$2
+DURATION_SECONDS=$3
+IMAGE_FILE_NAME="images/${COLOR}_${RES}.png" 
+VIDEO_FILE_NAME="videos/${COLOR}_${RES}.mp4" 
+echo $VIDEO_FILE_NAME
+
+echo "Generating $COLOR video with resolution $RES"
+
+if [ -e "$VIDEO_FILE_NAME" ]; then
+  echo "Video already exists"
+  exit 0
+fi
+
+if ! [ -e "$IMAGE_FILE_NAME" ]; then
+  echo "Generating image"
+  magick -size $RES xc:$COLOR $IMAGE_FILE_NAME
+  magick $IMAGE_FILE_NAME -gravity Center -pointsize 60 -fill white -annotate 0 "$RES" $IMAGE_FILE_NAME
+fi
+
+echo "Generating video"
+
+ffmpeg -loop 1 -i $IMAGE_FILE_NAME -c:v libx264 -t $DURATION_SECONDS -pix_fmt yuv420p $VIDEO_FILE_NAME
+
+if [ -e "$VIDEO_FILE_NAME" ]; then
+  echo "Done generating $VIDEO_FILE_NAME"
+fi

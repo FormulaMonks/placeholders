@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+
+RES=$1
+DURATION_SECONDS=$2
+cat colors.json | jq -r '.[].Name' | while IFS= read -r line; do
+  ./gen $line $RES $DURATION_SECONDS
+done
